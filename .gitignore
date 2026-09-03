@@ -1,0 +1,30 @@
+node_modules
+dist
+.DS_Store
+.env
+out
+whisper.cpp
+
+# Generated media (too large for git)
+public/route-*
+public/ta-outro.mp4
+public/light-rays-overlay.mp4
+public/bird_*.webm
+*.wav
+*.mp4
+!public/*.mp3
+!public/*.png
+!public/ginza-line.gpx
+
+# Logs
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# Test frames
+*.png

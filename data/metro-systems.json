@@ -1,0 +1,3135 @@
+{
+  "title": "Complete Metro Systems Database — TMETRO & T5 Metro Content",
+  "researchDate": "2026-07-08",
+  "notes": "61 high-tier city metro systems. No India or low-GDP countries. Prices in local currency + USD. Ratings are editorial (1-5 stars).",
+  "metros": [
+    {
+      "city": "Tokyo",
+      "country": "Japan",
+      "systemName": "Tokyo Metro",
+      "fare": {
+        "single": "¥180-¥330 (~$1.20-$2.20)",
+        "dayPass": "¥700 (~$4.70, Tokyo Metro 24h)",
+        "currency": "JPY"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:30",
+        "notes": "No overnight service. Combined with Toei Subway = 13 lines total."
+      },
+      "frequency": {
+        "peak": "2 min",
+        "offPeak": "3-5 min"
+      },
+      "network": {
+        "lengthKm": 195,
+        "lines": 9,
+        "stations": 180
+      },
+      "facilities": [
+        "Suica/PASMO contactless",
+        "heated seats",
+        "women-only cars (rush hour)",
+        "platform screen doors",
+        "free wifi at stations"
+      ],
+      "cardTip": "Grab a Suica card from any machine at the airport. Tap in tap out. Works on every train, bus, and even convenience stores.",
+      "dayPassTip": "Grab a twenty four hour pass for less than five dollars and ride unlimited all day.",
+      "signatureRoute": {
+        "from": "Shibuya",
+        "to": "Asakusa (Senso-ji)",
+        "line": "Ginza Line",
+        "time": "30 min",
+        "fare": "¥240 (~$1.60)",
+        "why": "Iconic tourist route from trendy Shibuya crossing to Tokyo's oldest temple"
+      },
+      "specialFact": "Last train is half past midnight and if you miss it your options are a two hundred dollar taxi or a manga cafe until five AM.",
+      "quirk": "Professional pushers help cram passengers into trains during rush hour. Tozai Line peak congestion reaches 199%.",
+      "originPoint": "Narita or Haneda airport — grab a Suica card from the machines right there at arrivals.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 5,
+        "frequency": 5,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 4.6
+      }
+    },
+    {
+      "city": "London",
+      "country": "United Kingdom",
+      "systemName": "London Underground (The Tube)",
+      "fare": {
+        "single": "£3.00-£3.10 (~$3.80, Oyster/contactless, Zone 1)",
+        "dayPass": "£8.90 daily cap (~$11.30, Zones 1-2, automatic)",
+        "currency": "GBP"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:30",
+        "notes": "Night Tube on Fri/Sat on 5 lines (Victoria, Central, Jubilee, Northern, Piccadilly)."
+      },
+      "frequency": {
+        "peak": "2-4 min",
+        "offPeak": "5-10 min"
+      },
+      "network": {
+        "lengthKm": 402,
+        "lines": 11,
+        "stations": 272
+      },
+      "facilities": [
+        "contactless payment",
+        "wifi at many stations",
+        "Night Tube (Fri/Sat)",
+        "Heathrow connection (Piccadilly line)",
+        "step-free access at select stations"
+      ],
+      "cardTip": "Just tap your bank card or phone. No special card needed. Oyster works too but contactless is easier.",
+      "dayPassTip": "Daily spending caps automatically at about nine pounds. Ride all day and it stops charging you.",
+      "signatureRoute": {
+        "from": "Heathrow Airport",
+        "to": "Piccadilly Circus",
+        "line": "Piccadilly Line",
+        "time": "50 min",
+        "fare": "£5.30 (~$6.70, Oyster peak)",
+        "why": "Cheapest airport-to-city-center transfer in London"
+      },
+      "specialFact": "Oldest metro system in the world. Opened in eighteen sixty three. The Mind the Gap announcement is heard by millions every day and nobody knows who recorded it.",
+      "quirk": "The Tube map is a design icon but geographically misleading — stations that look far apart are often a 5-minute walk.",
+      "originPoint": "Heathrow — follow signs to the Piccadilly line. Tap your bank card at the gate and you're in.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 2,
+        "frequency": 4,
+        "touristFriendly": 5,
+        "coverage": 5,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "New York",
+      "country": "United States",
+      "systemName": "New York City Subway",
+      "fare": {
+        "single": "$3.00 (flat fare)",
+        "dayPass": "$35 weekly cap (automatic via OMNY after 12 rides)",
+        "currency": "USD"
+      },
+      "hours": {
+        "firstTrain": "24/7",
+        "lastTrain": "24/7",
+        "notes": "One of very few 24/7 metro systems in the world. Late night frequency reduced to ~20 min."
+      },
+      "frequency": {
+        "peak": "2-5 min",
+        "offPeak": "8-16 min (late night ~20 min)"
+      },
+      "network": {
+        "lengthKm": 1070,
+        "lines": 25,
+        "stations": 472
+      },
+      "facilities": [
+        "OMNY contactless tap-to-pay",
+        "wifi in all stations",
+        "24/7 operation",
+        "express services"
+      ],
+      "cardTip": "Tap your bank card or phone at the OMNY reader. No MetroCard needed anymore. Three dollars flat no matter how far you go.",
+      "dayPassTip": "After twelve rides in a week it stops charging you. Basically a free weekly pass if you ride enough.",
+      "signatureRoute": {
+        "from": "Times Square",
+        "to": "Brooklyn Bridge-City Hall",
+        "line": "4/5/6 train",
+        "time": "10 min",
+        "fare": "$3.00",
+        "why": "Crosses Manhattan's core; walk across Brooklyn Bridge on arrival"
+      },
+      "specialFact": "It runs twenty four seven three sixty five. Three in the morning and you can still get a train. Try that in any other city.",
+      "quirk": "Most stations of any metro worldwide at 472. The MetroCard was retired in 2025 after 30 years, replaced by OMNY tap-and-ride.",
+      "originPoint": "JFK — take the AirTrain to Jamaica then the E train into Manhattan. From Newark use the AirTrain to Penn Station.",
+      "ratings": {
+        "cleanliness": 2,
+        "affordability": 3,
+        "frequency": 4,
+        "touristFriendly": 3,
+        "coverage": 5,
+        "overall": 3.4
+      }
+    },
+    {
+      "city": "Paris",
+      "country": "France",
+      "systemName": "Paris Metro",
+      "fare": {
+        "single": "€2.55",
+        "dayPass": "€12.30 (Navigo Jour, all zones excl. airports)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "01:15 (02:15 Fri/Sat)",
+        "notes": "No 24h service. Last train = departure from terminus."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "4-7 min"
+      },
+      "network": {
+        "lengthKm": 245.6,
+        "lines": 16,
+        "stations": 321
+      },
+      "facilities": [
+        "contactless via Navigo Easy/phone",
+        "Lines 1 & 14 fully driverless",
+        "AC on newer trains",
+        "airport connection (Line 14 to Orly, RER B to CDG)"
+      ],
+      "cardTip": "Buy a Navigo Easy card at any station for two euros. Load single rides or a day pass. Tap and go.",
+      "dayPassTip": "A day pass is about twelve euros and covers every metro bus and tram in the city all day.",
+      "signatureRoute": {
+        "from": "Trocadero",
+        "to": "Bastille",
+        "line": "Line 6 → Line 1",
+        "time": "20 min",
+        "fare": "€2.55",
+        "why": "Crosses central Paris past Eiffel Tower area, Concorde, Louvre vicinity, and historic Bastille"
+      },
+      "specialFact": "Three hundred and twenty one stations in a city you can walk across in two hours. You are never more than five hundred meters from a metro entrance anywhere in central Paris.",
+      "quirk": "World's densest metro: 321 stations in 105 sq km. Art Nouveau Guimard entrances (86 still exist). Lines 1 and 14 are fully driverless.",
+      "originPoint": "CDG airport — take the RER B into the city. From Orly take the new Line 14 extension direct to Chatelet.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 3,
+        "frequency": 5,
+        "touristFriendly": 4,
+        "coverage": 5,
+        "overall": 4.0
+      }
+    },
+    {
+      "city": "Seoul",
+      "country": "South Korea",
+      "systemName": "Seoul Metropolitan Subway",
+      "fare": {
+        "single": "₩1,550 (~$1.10, T-money card, base fare)",
+        "dayPass": "₩5,000 (~$3.50, Climate Card 1-day)",
+        "currency": "KRW"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:00-01:00",
+        "notes": "Hours vary by line. Climate Card tourist passes available 1-7 days."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 1302,
+        "lines": 23,
+        "stations": 700
+      },
+      "facilities": [
+        "T-money/WOWPASS contactless",
+        "free wifi on all trains",
+        "AC and heated seats",
+        "women-only cars",
+        "phone charging",
+        "airport connection (AREX to Incheon)"
+      ],
+      "cardTip": "Get a T-money card at any convenience store. Load it with cash. Works on every train bus and even taxis.",
+      "dayPassTip": "The Climate Card day pass is about three fifty and gets you unlimited rides all day. Best metro deal in Asia.",
+      "signatureRoute": {
+        "from": "Gyeongbokgung (Line 3)",
+        "to": "Gangnam (Line 2)",
+        "line": "Line 3 → transfer → Line 2",
+        "time": "25 min",
+        "fare": "₩1,550 (~$1.10)",
+        "why": "Historic royal palace district to the iconic Gangnam district"
+      },
+      "specialFact": "Every station has heated floors in winter convenience stores and some even have underground shopping malls. You could live in the subway and never need to go outside.",
+      "quirk": "One of the world's largest metro networks (1,300+ km including all commuter lines). Climate Card unlimited pass is extraordinary value.",
+      "originPoint": "Incheon airport — take the AREX express train to Seoul Station. Forty three minutes nonstop.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 5,
+        "frequency": 5,
+        "touristFriendly": 4,
+        "coverage": 5,
+        "overall": 4.8
+      }
+    },
+    {
+      "city": "Singapore",
+      "country": "Singapore",
+      "systemName": "Singapore MRT",
+      "fare": {
+        "single": "S$1.28-S$2.57 (~$0.95-$1.90, distance-based, card)",
+        "dayPass": "S$17/day (~$12.60, Tourist Pass)",
+        "currency": "SGD"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:00",
+        "notes": "No overnight service. Free morning off-peak rides on select lines."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-7 min"
+      },
+      "network": {
+        "lengthKm": 240,
+        "lines": 6,
+        "stations": 160
+      },
+      "facilities": [
+        "EZ-Link/SimplyGo contactless",
+        "full AC",
+        "platform screen doors on all stations",
+        "airport connection (Changi via East-West Line)",
+        "extremely clean"
+      ],
+      "cardTip": "Tap your bank card directly at the gates. SimplyGo works with Visa and Mastercard. No special card needed.",
+      "dayPassTip": "The tourist pass is seventeen dollars a day which is steep. If you're only doing three or four rides just tap your bank card instead.",
+      "signatureRoute": {
+        "from": "Orchard (shopping belt)",
+        "to": "Marina Bay",
+        "line": "North-South Line → Circle Line",
+        "time": "10 min",
+        "fare": "~S$1.50 (~$1.10)",
+        "why": "From Singapore's shopping spine to the Gardens by the Bay / Marina Bay Sands skyline"
+      },
+      "specialFact": "Eating drinking and durian fruit are banned on the MRT. Five hundred dollar fine. They're not joking. This is the cleanest metro system you will ever ride.",
+      "quirk": "Platform screen doors on every station. One of the cleanest metro systems in the world. S$500 fine for eating/drinking.",
+      "originPoint": "Changi Airport — the MRT station is right in the terminal. East-West line takes you into the city in about thirty minutes.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 4,
+        "frequency": 5,
+        "touristFriendly": 5,
+        "coverage": 4,
+        "overall": 4.6
+      }
+    },
+    {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "systemName": "Dubai Metro",
+      "fare": {
+        "single": "AED 3-7.50 (~$0.80-$2.04, Silver Nol card, zone-based)",
+        "dayPass": "AED 14 daily cap (~$3.80, Silver Nol, automatic)",
+        "currency": "AED"
+      },
+      "hours": {
+        "firstTrain": "05:00 (Sat-Thu), 10:00 (Fri)",
+        "lastTrain": "00:00",
+        "notes": "Friday start is 10:00 AM. Gold Class cabins available at 2x fare."
+      },
+      "frequency": {
+        "peak": "3-4 min",
+        "offPeak": "7 min"
+      },
+      "network": {
+        "lengthKm": 89.6,
+        "lines": 2,
+        "stations": 55
+      },
+      "facilities": [
+        "Nol card contactless",
+        "full AC",
+        "Gold Class cabin",
+        "women/children-only cabin",
+        "platform screen doors",
+        "airport connection (Red Line)"
+      ],
+      "cardTip": "Get a Silver Nol card at any station for twenty five dirhams. Tap in tap out. Daily spending caps at about four dollars automatically.",
+      "dayPassTip": "Your Nol card caps at fourteen dirhams a day. That's less than four dollars for unlimited rides.",
+      "signatureRoute": {
+        "from": "Mall of the Emirates",
+        "to": "Burj Khalifa/Dubai Mall",
+        "line": "Red Line",
+        "time": "15 min",
+        "fare": "AED 5 (~$1.36)",
+        "why": "Connects Dubai's two mega-malls with views of the skyline from the elevated track"
+      },
+      "specialFact": "Fully driverless. You can sit in the front cabin and watch the tracks fly at you through a panoramic window. Pay double for Gold Class and you get leather seats and a separate cabin.",
+      "quirk": "Fully automated and driverless. Gold Class cabin in the front with panoramic windows. Friday opening is 10 AM not 5 AM.",
+      "originPoint": "Dubai Airport — the Red Line station is connected to Terminal 1 and 3. Five minutes and you're on a train into the city.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 5,
+        "frequency": 3,
+        "touristFriendly": 4,
+        "coverage": 2,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Madrid",
+      "country": "Spain",
+      "systemName": "Madrid Metro",
+      "fare": {
+        "single": "€1.50-€2.00 (Zone A, distance-based)",
+        "dayPass": "€10.30 (Tourist Ticket Zone A, 1 day)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "06:00",
+        "lastTrain": "01:30",
+        "notes": "Same hours every day of the year. €3 airport supplement on single tickets."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-7 min"
+      },
+      "network": {
+        "lengthKm": 296.6,
+        "lines": 13,
+        "stations": 276
+      },
+      "facilities": [
+        "contactless payment",
+        "AC on all trains",
+        "airport connection (Line 8)",
+        "free travel for over 65 and under 14",
+        "70%+ step-free accessibility"
+      ],
+      "cardTip": "Tap your contactless bank card at the gates. No special card needed. Single rides start at a euro fifty.",
+      "dayPassTip": "Tourist day pass is about ten euros and covers every metro ride plus the airport. Worth it if you're doing more than five rides.",
+      "signatureRoute": {
+        "from": "Sol (city center)",
+        "to": "Aeropuerto T4",
+        "line": "Line 8",
+        "time": "30 min",
+        "fare": "€4.50-€5.00 (incl. airport supplement)",
+        "why": "Direct metro from the beating heart of Madrid to the airport, one of Europe's cheapest airport transfers"
+      },
+      "specialFact": "Kids under fourteen and anyone over sixty five ride completely free. That's not a discount. Free. Show your passport at the gate.",
+      "quirk": "3rd longest metro in Europe. Trains run on the LEFT (unlike Spanish roads). Ghost station Chamberi (closed 1966) is now a museum.",
+      "originPoint": "Madrid airport — Line 8 connects Terminal 4 directly to the city center. There's a three euro airport supplement on your ticket.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 4,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 5,
+        "overall": 4.2
+      }
+    },
+    {
+      "city": "Barcelona",
+      "country": "Spain",
+      "systemName": "Barcelona Metro",
+      "fare": {
+        "single": "€2.90",
+        "dayPass": "€12.00 (T-Dia, 1 day, Zone 1)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:00 (02:00 Fri, 24h Sat-Sun)",
+        "notes": "Continuous 24h service from Sat 05:00 to Sun midnight."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-10 min"
+      },
+      "network": {
+        "lengthKm": 166,
+        "lines": 12,
+        "stations": 189
+      },
+      "facilities": [
+        "T-mobilitat contactless card",
+        "AC on all trains",
+        "Lines 9/10/11 driverless",
+        "airport connection (L9 Sud)",
+        "90%+ stations accessible"
+      ],
+      "cardTip": "Get a T-mobilitat card or just tap your bank card. Single rides are two ninety. Buy a T-Casual ten pack for about twelve euros to save.",
+      "dayPassTip": "The day pass is twelve euros. If you're doing more than four rides in a day it pays for itself.",
+      "signatureRoute": {
+        "from": "Passeig de Gracia",
+        "to": "Sagrada Familia",
+        "line": "L2 (direct)",
+        "time": "5 min",
+        "fare": "€2.90",
+        "why": "Two of Gaudi's masterpieces connected in one quick ride"
+      },
+      "specialFact": "On Saturday night the metro runs continuously for forty three hours straight. Five AM Saturday through midnight Sunday. No other metro in Europe does this.",
+      "quirk": "Lines 9 and 10 form Europe's longest automated metro line at 47.8 km. Saturday night metro runs continuously for 43 hours.",
+      "originPoint": "Barcelona airport — L9 Sud runs from both terminals into the city. About thirty five minutes to the center.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 3,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Berlin",
+      "country": "Germany",
+      "systemName": "Berlin U-Bahn",
+      "fare": {
+        "single": "€4.00 (Zone AB)",
+        "dayPass": "€11.20 (24h ticket, Zone AB)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "04:00",
+        "lastTrain": "01:00 (24h on weekends)",
+        "notes": "Most lines run 24h Fri-Sun. Weekday nights: night buses replace U-Bahn."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "5-10 min (15 min at night)"
+      },
+      "network": {
+        "lengthKm": 155.6,
+        "lines": 9,
+        "stations": 175
+      },
+      "facilities": [
+        "honour system (no gates)",
+        "Deutschlandticket (€63/month, all Germany)",
+        "24h weekend service"
+      ],
+      "cardTip": "There are no gates. You buy a ticket from the machine and validate it. Honour system. Get caught without one and it's a sixty euro fine.",
+      "dayPassTip": "A day ticket is about eleven euros. Covers every train bus and tram in the city for twenty four hours.",
+      "signatureRoute": {
+        "from": "Hauptbahnhof",
+        "to": "Alexanderplatz",
+        "line": "U5",
+        "time": "8 min",
+        "fare": "€4.00",
+        "why": "New U5 extension passes Bundestag, Brandenburg Gate, Unter den Linden, Museum Island"
+      },
+      "specialFact": "There are no ticket gates. No barriers. You just walk on. It's an honour system. But plainclothes inspectors ride the trains and if you don't have a valid ticket it's sixty euros on the spot.",
+      "quirk": "Ghost stations from Cold War division are visible. U5 Museumsinsel station (2020) has a starry blue ceiling. No ticket barriers anywhere.",
+      "originPoint": "Berlin Brandenburg airport — take the FEX express train to Hauptbahnhof in thirty minutes. No metro to the airport.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 2,
+        "frequency": 3,
+        "touristFriendly": 3,
+        "coverage": 4,
+        "overall": 3.0
+      }
+    },
+    {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "systemName": "Istanbul Metro",
+      "fare": {
+        "single": "~42 TL (~$1.10, Istanbulkart)",
+        "dayPass": "No official day pass; Istanbulkart has transfer discounts within 2h",
+        "currency": "TRY"
+      },
+      "hours": {
+        "firstTrain": "06:00",
+        "lastTrain": "00:00",
+        "notes": "Night Metro on 7 lines Fri-Sat (66h continuous service Fri 06:00 to Sun 00:00)."
+      },
+      "frequency": {
+        "peak": "3-4 min",
+        "offPeak": "6-12 min"
+      },
+      "network": {
+        "lengthKm": 265,
+        "lines": 11,
+        "stations": 169
+      },
+      "facilities": [
+        "Istanbulkart contactless",
+        "AC on all trains",
+        "M5/M7/M8 driverless",
+        "platform screen doors on newer lines",
+        "2 airport connections (M11 to IST, M4 to SAW)"
+      ],
+      "cardTip": "Get an Istanbulkart at any kiosk or machine. Load it with lira. About a dollar ten per ride and transfers within two hours are discounted.",
+      "dayPassTip": "No day pass available. But at a dollar ten per ride and discounted transfers you won't spend much anyway.",
+      "signatureRoute": {
+        "from": "Taksim (M2)",
+        "to": "Kadikoy (via Marmaray)",
+        "line": "M2 → Marmaray (transfer at Yenikapi)",
+        "time": "25 min",
+        "fare": "~42 TL (~$1.10)",
+        "why": "Cross from Europe to Asia under the Bosphorus. The Marmaray tunnel is 60m below the seabed."
+      },
+      "specialFact": "For about a dollar you can ride a train from Europe to Asia. Under the Bosphorus. Sixty meters below the seabed. No other metro in the world crosses continents.",
+      "quirk": "Spans two continents connected by the Marmaray tunnel, the deepest immersed tube tunnel in the world. Night Metro runs 66 hours straight on weekends.",
+      "originPoint": "Istanbul Airport — M11 runs direct to the city center. One of Europe's longest metro lines at over fifty kilometers.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 5,
+        "frequency": 3,
+        "touristFriendly": 3,
+        "coverage": 4,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Osaka",
+      "country": "Japan",
+      "systemName": "Osaka Metro",
+      "fare": {
+        "single": "¥190-¥420 (~$1.30-$2.85, distance-based)",
+        "dayPass": "¥620-¥820 (~$4.20-$5.50, Enjoy Eco Card, cheaper on weekends)",
+        "currency": "JPY"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:15",
+        "notes": "No overnight service. Enjoy Eco Card includes discounts at 50+ attractions."
+      },
+      "frequency": {
+        "peak": "2-4 min (Midosuji: every 2 min 15 sec)",
+        "offPeak": "4-8 min"
+      },
+      "network": {
+        "lengthKm": 141,
+        "lines": 9,
+        "stations": 134
+      },
+      "facilities": [
+        "ICOCA/Suica IC card",
+        "contactless credit card tap-to-ride",
+        "AC on all trains",
+        "platform barriers on multiple lines"
+      ],
+      "cardTip": "Your Suica card from Tokyo works here too. Or tap your credit card directly at the gates. Same system different city.",
+      "dayPassTip": "The Enjoy Eco Card is about four dollars on weekends and gets you unlimited rides plus discounts at over fifty attractions.",
+      "signatureRoute": {
+        "from": "Namba",
+        "to": "Umeda",
+        "line": "Midosuji Line",
+        "time": "7 min",
+        "fare": "¥240 (~$1.60)",
+        "why": "Connects Osaka's two main districts — Dotonbori nightlife area to the northern business/shopping hub"
+      },
+      "specialFact": "The Enjoy Eco Card on weekends costs about four dollars and includes free or discounted entry to over fifty attractions on top of unlimited rides. Best metro day pass deal in the world.",
+      "quirk": "Japan's first publicly-operated subway (1933). Midosuji Line carries 1.3M passengers daily. Enjoy Eco Card at ¥620 on weekends is one of the best metro deals in the world.",
+      "originPoint": "Kansai Airport — take the Nankai Express to Namba station in about forty five minutes then connect to the metro.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 5,
+        "frequency": 5,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 4.6
+      }
+    },
+    {
+      "city": "Rome",
+      "country": "Italy",
+      "systemName": "Rome Metro",
+      "fare": {
+        "single": "€1.50 (BIT ticket, 100 min)",
+        "dayPass": "€8.50 (ROMA 24h)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "23:30 (01:30 Fri/Sat)",
+        "notes": "One of Europe's smallest metro systems. Line C is fully driverless."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "7-12 min"
+      },
+      "network": {
+        "lengthKm": 62,
+        "lines": 3,
+        "stations": 77
+      },
+      "facilities": [
+        "contactless via BIT+ app",
+        "Line C fully driverless",
+        "limited accessibility"
+      ],
+      "cardTip": "Buy a BIT ticket from any machine or tabacchi shop. One fifty and it's good for a hundred minutes on buses and trams too.",
+      "dayPassTip": "A twenty four hour pass is eight fifty. Covers metro buses and trams. Worth it if you're doing more than five rides.",
+      "signatureRoute": {
+        "from": "Termini",
+        "to": "Colosseo",
+        "line": "Line B (1 stop)",
+        "time": "2 min",
+        "fare": "€1.50",
+        "why": "One stop from Rome's main station to the Colosseum. The cheapest and fastest way to the icon."
+      },
+      "specialFact": "One stop. Two minutes. A euro fifty. That's how you get from Rome's main station to the Colosseum. Probably the most famous single metro stop in the world.",
+      "quirk": "Archaeological discoveries keep delaying construction. Line C excavations unearthed a Roman military barracks, an inn, and a peach pit from the 1st century AD.",
+      "originPoint": "Fiumicino airport — take the Leonardo Express train to Termini in thirty two minutes then connect to the metro.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 5,
+        "frequency": 2,
+        "touristFriendly": 3,
+        "coverage": 2,
+        "overall": 3.0
+      }
+    },
+    {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "systemName": "Lisbon Metro",
+      "fare": {
+        "single": "€1.72 (Zapping) / €1.90 (single ticket)",
+        "dayPass": "€7.25 (Carris/Metro 24h)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "06:30",
+        "lastTrain": "01:00",
+        "notes": "Same hours every day including weekends/holidays."
+      },
+      "frequency": {
+        "peak": "4-5 min",
+        "offPeak": "6-10 min"
+      },
+      "network": {
+        "lengthKm": 44.5,
+        "lines": 4,
+        "stations": 56
+      },
+      "facilities": [
+        "Navegante card (reusable, €0.50)",
+        "contactless bank card at gates",
+        "airport connection (Red Line direct, no surcharge)",
+        "beautiful tile art in stations"
+      ],
+      "cardTip": "Tap your contactless bank card at the gates. Or grab a Navegante card for fifty cents and load Zapping credit for cheaper rides.",
+      "dayPassTip": "A twenty four hour pass is about seven euros and covers every metro tram bus and ferry in the city.",
+      "signatureRoute": {
+        "from": "Aeroporto",
+        "to": "Baixa-Chiado",
+        "line": "Red Line (direct)",
+        "time": "20 min",
+        "fare": "€1.72 (Zapping)",
+        "why": "Direct metro from airport to historic center for under two euros, no surcharge. One of Europe's cheapest airport transfers."
+      },
+      "specialFact": "The metro goes directly from the airport to the city center for a euro seventy two. No surcharge. No express ticket. Just tap and ride. One of the cheapest airport transfers in Europe.",
+      "quirk": "Every station features unique azulejo tile artwork by renowned Portuguese artists. Under-23 residents ride completely free. Olaias station resembles a cathedral.",
+      "originPoint": "Lisbon airport — the Red Line metro station is right in the terminal. Twenty minutes to the city center for under two euros.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 5,
+        "frequency": 3,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "systemName": "Amsterdam Metro",
+      "fare": {
+        "single": "€3.40 (1-hour ticket) or €1.16 + €0.217/km (OVpay)",
+        "dayPass": "€10.00 (GVB day ticket)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "06:00 (06:30 Sat, 07:30 Sun)",
+        "lastTrain": "00:30",
+        "notes": "Small system complemented by extensive tram network. Ferries are free."
+      },
+      "frequency": {
+        "peak": "5-8 min (Line 52: every 5 min)",
+        "offPeak": "10-15 min"
+      },
+      "network": {
+        "lengthKm": 42.7,
+        "lines": 5,
+        "stations": 39
+      },
+      "facilities": [
+        "OVpay (contactless bank card)",
+        "no airport metro (use train to Schiphol)",
+        "free GVB ferries across IJ river"
+      ],
+      "cardTip": "Tap your bank card at any gate. OVpay charges by distance. No special card needed.",
+      "dayPassTip": "A GVB day ticket is ten euros and covers metro trams buses and ferries. The ferries across the river are free even without a ticket.",
+      "signatureRoute": {
+        "from": "Centraal Station",
+        "to": "Amsterdam Zuid",
+        "line": "Line 52 (North-South)",
+        "time": "16 min",
+        "fare": "~€2.20 (OVpay)",
+        "why": "The new North-South Line tunnels under the IJ river and historic center, connecting the main station to the business district"
+      },
+      "specialFact": "Line fifty two cost three point one billion euros and took fifteen years to build. For a metro line with just eight stations. The most expensive metro line per station in European history.",
+      "quirk": "Line 52 (North-South) cost €3.1 billion and took 15 years to build (opened 2018). Tiny system compared to the city's famous tram network.",
+      "originPoint": "Schiphol airport — there's no metro to the airport. Take a train to Centraal Station in fifteen minutes then connect to the metro.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 3,
+        "frequency": 2,
+        "touristFriendly": 4,
+        "coverage": 2,
+        "overall": 3.0
+      }
+    },
+    {
+      "city": "Vienna",
+      "country": "Austria",
+      "systemName": "Vienna U-Bahn",
+      "fare": {
+        "single": "€2.40 (~$2.60)",
+        "dayPass": "€5.80 (24h ticket)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:30",
+        "notes": "24h service on weekends and public holiday eves on all lines. Runs every 5 min on Fri/Sat nights."
+      },
+      "frequency": {
+        "peak": "2-5 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 83.3,
+        "lines": 5,
+        "stations": 109
+      },
+      "facilities": [
+        "contactless payment",
+        "free wifi at stations",
+        "24h weekend service",
+        "full AC",
+        "elevators at most stations"
+      ],
+      "cardTip": "Tap your bank card or phone at the gate. Works with Visa and Mastercard. No special card needed for tourists.",
+      "dayPassTip": "A twenty four hour ticket costs less than six euros and covers every U-Bahn tram and bus in the city.",
+      "signatureRoute": {
+        "from": "Karlsplatz",
+        "to": "Stephansplatz",
+        "line": "U1",
+        "time": "2 min",
+        "fare": "€2.40 (~$2.60)",
+        "why": "One stop from the opera house to the iconic St. Stephen's Cathedral"
+      },
+      "specialFact": "Vienna runs its entire U-Bahn twenty four seven on weekends. Friday and Saturday nights the trains keep running all night every five to eight minutes.",
+      "quirk": "The annual pass costs just one euro a day. Three hundred sixty five euros for a full year of unlimited travel on everything in the city.",
+      "originPoint": "Vienna Airport — take the S-Bahn S7 or the City Airport Train into the city. Both connect to U-Bahn at Wien Mitte.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 4,
+        "frequency": 5,
+        "touristFriendly": 5,
+        "coverage": 4,
+        "overall": 4.6
+      }
+    },
+    {
+      "city": "Prague",
+      "country": "Czech Republic",
+      "systemName": "Prague Metro",
+      "fare": {
+        "single": "50 CZK (~$2.20, 90-min ticket)",
+        "dayPass": "150 CZK (~$6.60, 24h ticket)",
+        "currency": "CZK"
+      },
+      "hours": {
+        "firstTrain": "04:45",
+        "lastTrain": "00:15",
+        "notes": "No overnight service. Night trams and buses take over after midnight."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-10 min"
+      },
+      "network": {
+        "lengthKm": 65.2,
+        "lines": 3,
+        "stations": 61
+      },
+      "facilities": [
+        "contactless payment at machines",
+        "Litacka app for mobile tickets",
+        "free wifi at some stations",
+        "Line D under construction"
+      ],
+      "cardTip": "Download the PID Litacka app and buy tickets on your phone. Activate before entering the station or you risk a fine.",
+      "dayPassTip": "A seventy two hour pass costs about fifteen dollars and covers metro tram and bus. Best deal if you are staying a few days.",
+      "signatureRoute": {
+        "from": "Malostranska",
+        "to": "Staromestska",
+        "line": "Line A (Green)",
+        "time": "2 min",
+        "fare": "30 CZK (~$1.30, 30-min ticket)",
+        "why": "One stop from the Castle district to the Old Town across the Vltava river"
+      },
+      "specialFact": "Namesti Miru station is the deepest in the European Union. Fifty three meters underground. The escalator ride takes two minutes and fifteen seconds.",
+      "quirk": "Ticket inspectors in plain clothes fine tourists constantly. Validate your ticket before going down or you will pay fifteen hundred crowns on the spot.",
+      "originPoint": "Prague Airport — no metro connection. Take bus 59 to Nadrazi Veleslavin then Line A into the city. About forty five minutes total.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 5,
+        "frequency": 5,
+        "touristFriendly": 3,
+        "coverage": 4,
+        "overall": 4.2
+      }
+    },
+    {
+      "city": "Budapest",
+      "country": "Hungary",
+      "systemName": "Budapest Metro",
+      "fare": {
+        "single": "450 HUF (~$1.20)",
+        "dayPass": "2500 HUF (~$6.70, 24h travelcard)",
+        "currency": "HUF"
+      },
+      "hours": {
+        "firstTrain": "04:30",
+        "lastTrain": "23:30",
+        "notes": "No overnight metro service. Night buses cover the routes after midnight."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-10 min"
+      },
+      "network": {
+        "lengthKm": 40.8,
+        "lines": 4,
+        "stations": 52
+      },
+      "facilities": [
+        "Budapest Card integration",
+        "heritage Line M1",
+        "AC on M4",
+        "airport bus connection"
+      ],
+      "cardTip": "Buy a twenty four hour travelcard at any station. Covers metro tram bus and even the river boats.",
+      "dayPassTip": "The twenty four hour travelcard costs about seven dollars and gets you unlimited rides on everything in the city including trams and boats.",
+      "signatureRoute": {
+        "from": "Vorosmarty ter",
+        "to": "Hosok tere",
+        "line": "M1 (Yellow)",
+        "time": "8 min",
+        "fare": "450 HUF (~$1.20)",
+        "why": "Ride the oldest electrified underground railway on the European mainland from downtown to Heroes Square"
+      },
+      "specialFact": "Line M1 opened in eighteen ninety six and is a UNESCO World Heritage Site. It was the first electrified underground railway on the European mainland.",
+      "quirk": "M1 stations are tiny and barely underground. You walk down a few steps and you are on the platform. It feels like stepping back to the nineteenth century.",
+      "originPoint": "Budapest Airport — take bus 100E directly to Deak Ferenc ter in the city center. About thirty five minutes.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 5,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Stockholm",
+      "country": "Sweden",
+      "systemName": "Stockholm Tunnelbana",
+      "fare": {
+        "single": "47 SEK (~$4.40, 75-min ticket)",
+        "dayPass": "165 SEK (~$15.50, 24h pass)",
+        "currency": "SEK"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "01:00",
+        "notes": "Extended all-night service on Friday and Saturday nights."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "10-15 min"
+      },
+      "network": {
+        "lengthKm": 106,
+        "lines": 3,
+        "stations": 100
+      },
+      "facilities": [
+        "SL app for tickets",
+        "contactless at gates",
+        "art in 94 of 100 stations",
+        "weekend night service"
+      ],
+      "cardTip": "Download the SL app and buy tickets digitally. You can also tap a contactless bank card at the turnstile gates.",
+      "dayPassTip": "A twenty four hour pass is about sixteen dollars. Covers metro buses trams and even some ferries.",
+      "signatureRoute": {
+        "from": "T-Centralen (Blue)",
+        "to": "Kungstradgarden",
+        "line": "Blue Line (T10/T11)",
+        "time": "3 min",
+        "fare": "47 SEK (~$4.40)",
+        "why": "Two of the most spectacular art stations in the world back to back"
+      },
+      "specialFact": "Ninety four of one hundred stations have original artwork. It is called the world's longest art gallery. You can see the bare rock walls painted with murals sculptures and mosaics.",
+      "quirk": "Kungstradgarden station on the Blue Line looks like an underground garden with archaeological relics from a demolished palace embedded in the walls.",
+      "originPoint": "Arlanda Airport — take the Arlanda Express to Central Station in twenty minutes or the cheaper commuter train. Then transfer to any metro line at T-Centralen.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 2,
+        "frequency": 3,
+        "touristFriendly": 5,
+        "coverage": 4,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Copenhagen",
+      "country": "Denmark",
+      "systemName": "Copenhagen Metro",
+      "fare": {
+        "single": "24 DKK (~$3.40, 2 zones)",
+        "dayPass": "100 DKK (~$14.20, City Pass Small 24h)",
+        "currency": "DKK"
+      },
+      "hours": {
+        "firstTrain": "24/7",
+        "lastTrain": "24/7",
+        "notes": "Fully driverless. Runs 24/7. Night frequency is 7-20 min depending on line."
+      },
+      "frequency": {
+        "peak": "2-4 min",
+        "offPeak": "4-6 min"
+      },
+      "network": {
+        "lengthKm": 43.3,
+        "lines": 4,
+        "stations": 44
+      },
+      "facilities": [
+        "Rejsekort app",
+        "fully driverless",
+        "24/7 operation",
+        "airport connection on M2",
+        "platform screen doors"
+      ],
+      "cardTip": "Download the Rejsekort app and buy tickets on your phone. Or buy a City Pass from machines at any metro station.",
+      "dayPassTip": "The City Pass Small costs a hundred kroner for twenty four hours. Covers metro bus and train in central Copenhagen including the airport.",
+      "signatureRoute": {
+        "from": "Kongens Nytorv",
+        "to": "Kobenhavns Lufthavn (Airport)",
+        "line": "M2",
+        "time": "12 min",
+        "fare": "~36 DKK (~$5.10)",
+        "why": "Fastest and cheapest way from the city center to the airport"
+      },
+      "specialFact": "It runs twenty four seven three sixty five. One of only three metro systems in the world that never closes. At three in the morning you can still catch a train.",
+      "quirk": "The M3 Cityringen is a full circle line. You can ride the entire loop in twenty nine minutes without getting off. Every station was designed to let daylight flood underground.",
+      "originPoint": "Copenhagen Airport — the M2 metro station is right in the terminal. Twelve minutes and you are at Kongens Nytorv in the city center.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 2,
+        "frequency": 5,
+        "touristFriendly": 5,
+        "coverage": 3,
+        "overall": 4.0
+      }
+    },
+    {
+      "city": "Athens",
+      "country": "Greece",
+      "systemName": "Athens Metro",
+      "fare": {
+        "single": "€1.20 (90-min ticket)",
+        "dayPass": "€4.10 (24h ticket)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:00",
+        "notes": "Lines 2 and 3 run until 02:00 on Fridays and all night on Saturdays."
+      },
+      "frequency": {
+        "peak": "5-6 min",
+        "offPeak": "8-10 min"
+      },
+      "network": {
+        "lengthKm": 85,
+        "lines": 3,
+        "stations": 65
+      },
+      "facilities": [
+        "contactless payment",
+        "archaeological displays in stations",
+        "airport connection on Line 3",
+        "AC on all trains"
+      ],
+      "cardTip": "Buy a rechargeable Ath.ena card at any station. Or tap your contactless bank card directly at the gates.",
+      "dayPassTip": "A twenty four hour ticket costs about four euros and covers metro tram bus and trolleybus. One of the cheapest day passes in Europe.",
+      "signatureRoute": {
+        "from": "Syntagma",
+        "to": "Acropoli",
+        "line": "Line 2 (Red)",
+        "time": "3 min",
+        "fare": "€1.20",
+        "why": "One stop from the parliament to the Acropolis with ancient artifacts displayed behind glass on the platform"
+      },
+      "specialFact": "When they dug the metro they found so many ancient artifacts they turned stations into museums. Syntagma station has archaeological displays behind glass showing layers of Athens going back thousands of years.",
+      "quirk": "One euro twenty for a ninety minute ticket. That is less than a bottle of water in most European capitals. And it covers every bus tram and metro in the city.",
+      "originPoint": "Athens Airport — take Line 3 directly into the city center. About forty minutes to Syntagma. The ticket costs a bit more for the airport zone.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 5,
+        "frequency": 3,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Munich",
+      "country": "Germany",
+      "systemName": "Munich U-Bahn",
+      "fare": {
+        "single": "€4.20 (~$4.60, Zone M)",
+        "dayPass": "€10.10 (~$11.10, single day ticket Zone M)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "04:00",
+        "lastTrain": "01:00",
+        "notes": "Night service on Fridays Saturdays and before public holidays on all main lines every 30 min."
+      },
+      "frequency": {
+        "peak": "2-5 min",
+        "offPeak": "10 min"
+      },
+      "network": {
+        "lengthKm": 95,
+        "lines": 8,
+        "stations": 96
+      },
+      "facilities": [
+        "MVV integrated ticketing",
+        "MVGO app",
+        "night service on weekends",
+        "Oktoberfest station (Theresienwiese)"
+      ],
+      "cardTip": "Download the MVGO app and use MVVswipe. It finds the cheapest fare automatically and caps at the day ticket price.",
+      "dayPassTip": "A group day ticket for up to five people costs about twenty euros. That is four euros per person if you are travelling together.",
+      "signatureRoute": {
+        "from": "Marienplatz",
+        "to": "Olympiazentrum",
+        "line": "U3",
+        "time": "15 min",
+        "fare": "€4.20",
+        "why": "From the medieval heart of Munich to the Olympic Park and BMW Welt"
+      },
+      "specialFact": "The fastest U-Bahn in Germany. Top speed of eighty kilometers per hour. The station spacing is wider than in most cities so the trains really get up to speed between stops.",
+      "quirk": "Karlsplatz station is thirty six meters underground. The deepest in Munich. And Theresienwiese station opens special command booths just for Oktoberfest crowd control.",
+      "originPoint": "Munich Airport — no U-Bahn connection. Take the S-Bahn S1 or S8 into the city in about forty minutes. The Airport-City-Day-Ticket covers both the airport transfer and all city transport for the day.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 3,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "systemName": "Glasgow Subway",
+      "fare": {
+        "single": "£1.80 (~$2.30, flat fare)",
+        "dayPass": "£4.45 (~$5.70, all-day ticket)",
+        "currency": "GBP"
+      },
+      "hours": {
+        "firstTrain": "06:30",
+        "lastTrain": "23:40",
+        "notes": "Sunday hours are limited: 10:00 to 18:12. Extended weekend hours approved for future."
+      },
+      "frequency": {
+        "peak": "4 min",
+        "offPeak": "6-8 min"
+      },
+      "network": {
+        "lengthKm": 10.5,
+        "lines": 1,
+        "stations": 15
+      },
+      "facilities": [
+        "contactless payment since 2026",
+        "Smartcard",
+        "new driverless Stadler trains since 2023",
+        "Park and Ride at 3 stations"
+      ],
+      "cardTip": "Just tap your contactless bank card at the turnstile. No special card needed since twenty twenty six.",
+      "dayPassTip": "An all day ticket costs less than five pounds. Ride the entire loop as many times as you want.",
+      "signatureRoute": {
+        "from": "Buchanan Street",
+        "to": "Hillhead",
+        "line": "Outer Circle",
+        "time": "6 min",
+        "fare": "£1.80",
+        "why": "From the city center to the University of Glasgow and the West End in minutes"
+      },
+      "specialFact": "Third oldest underground railway in the world after London and Budapest. Opened in eighteen ninety six. And it has never added a single station in over a hundred and thirty years.",
+      "quirk": "One circular line. Fifteen stations. Twenty four minutes for the full loop. The trains run on a narrow four foot gauge which makes them tiny compared to any other metro in the world.",
+      "originPoint": "Glasgow Airport — no subway connection. Take the 500 bus from Buchanan Street. The subway connects to National Rail at Partick and to Glasgow Central via St Enoch.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 5,
+        "frequency": 4,
+        "touristFriendly": 5,
+        "coverage": 2,
+        "overall": 4.0
+      }
+    },
+    {
+      "city": "Bilbao",
+      "country": "Spain",
+      "systemName": "Metro Bilbao",
+      "fare": {
+        "single": "€1.70-€1.90 (~$1.85-$2.10, Barik card)",
+        "dayPass": "€5.30 (~$5.80, Creditrans day pass)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "06:00",
+        "lastTrain": "23:00",
+        "notes": "Extended to 02:00 on Friday and Saturday nights."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "8-10 min"
+      },
+      "network": {
+        "lengthKm": 49.6,
+        "lines": 3,
+        "stations": 48
+      },
+      "facilities": [
+        "Barik contactless card",
+        "Norman Foster designed stations",
+        "weekend night service",
+        "AC on all trains"
+      ],
+      "cardTip": "Get a Barik card at any station. It gives you a discount on every ride compared to single tickets.",
+      "dayPassTip": "The Creditrans day pass costs about five euros and covers metro tram and bus all day.",
+      "signatureRoute": {
+        "from": "Moyua",
+        "to": "Algorta",
+        "line": "Line 1",
+        "time": "20 min",
+        "fare": "€1.90",
+        "why": "From central Bilbao to the beach town of Getxo along the Nervion estuary"
+      },
+      "specialFact": "Every station entrance was designed by Norman Foster. The curved glass canopies are nicknamed Fosteritos by locals and have become an icon of the city.",
+      "quirk": "Opened in nineteen ninety five and was immediately named one of the best designed metro systems in the world. The entire system was planned as architecture not just transport.",
+      "originPoint": "Bilbao Airport — take the Bizkaibus A3247 to the city center then connect to the metro at Moyua or San Mames.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 4,
+        "frequency": 4,
+        "touristFriendly": 5,
+        "coverage": 3,
+        "overall": 4.2
+      }
+    },
+    {
+      "city": "Porto",
+      "country": "Portugal",
+      "systemName": "Metro do Porto",
+      "fare": {
+        "single": "€1.40-€2.45 (~$1.55-$2.70, Andante card, zone-based)",
+        "dayPass": "€7.60 (~$8.35, Andante Tour 24h all zones)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "06:00",
+        "lastTrain": "01:00",
+        "notes": "Mostly above-ground light metro. Same hours every day."
+      },
+      "frequency": {
+        "peak": "4-6 min",
+        "offPeak": "10-15 min"
+      },
+      "network": {
+        "lengthKm": 67,
+        "lines": 6,
+        "stations": 82
+      },
+      "facilities": [
+        "Andante contactless card",
+        "airport connection (Line E)",
+        "mostly above ground with river views",
+        "integrated with bus and tram"
+      ],
+      "cardTip": "Get an Andante card at any station for fifty cents. Load it with zones. Z2 covers most tourist areas.",
+      "dayPassTip": "The Andante Tour twenty four hour pass covers all zones including the airport for about eight euros.",
+      "signatureRoute": {
+        "from": "Trindade",
+        "to": "Aeroporto",
+        "line": "Line E (Violet)",
+        "time": "30 min",
+        "fare": "€2.45",
+        "why": "Cheapest airport transfer in Porto and one of the cheapest in Europe"
+      },
+      "specialFact": "It is not really a metro. Most of it runs above ground like a tram. But crossing the Ponte do Infante bridge over the Douro river at sunset on Line D is one of the best views in public transit anywhere.",
+      "quirk": "Six lines and eighty two stations but only a handful are underground. It is a light metro that replaced an old tram network and kept some of the original tram routes.",
+      "originPoint": "Porto Airport — Line E runs directly from the airport to the city center. About thirty minutes to Trindade. Load your Andante card at the airport station.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 4,
+        "frequency": 3,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Milan",
+      "country": "Italy",
+      "systemName": "Milan Metro",
+      "fare": {
+        "single": "€2.20 (~$2.40)",
+        "dayPass": "€7.60 (~$8.35, 24h ticket)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:30",
+        "notes": "Saturday night service extended to 01:30 on Line M1 and M2."
+      },
+      "frequency": {
+        "peak": "2-4 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 112,
+        "lines": 5,
+        "stations": 125
+      },
+      "facilities": [
+        "ATM contactless card",
+        "contactless bank card payment",
+        "5 lines including driverless M5",
+        "airport bus connections"
+      ],
+      "cardTip": "Tap your contactless bank card directly at the turnstile. No special card needed. Two twenty per ride.",
+      "dayPassTip": "A twenty four hour ticket costs about eight euros and covers metro tram and bus across the entire ATM network.",
+      "signatureRoute": {
+        "from": "Duomo",
+        "to": "Cadorna",
+        "line": "M1 (Red)",
+        "time": "5 min",
+        "fare": "€2.20",
+        "why": "From the cathedral to the station for the Malpensa Express in minutes"
+      },
+      "specialFact": "Line M5 is fully driverless and lilac colored. It connects the city center to the San Siro stadium. On match days it runs extra services.",
+      "quirk": "Five metro lines covering over a hundred kilometers make it the largest metro in Italy. Line M4 opened in twenty twenty three and connects the airport to the city center.",
+      "originPoint": "Linate Airport — take Line M4 directly into the city center. About twelve minutes to San Babila. From Malpensa take the Malpensa Express train to Cadorna.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 3,
+        "frequency": 5,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Naples",
+      "country": "Italy",
+      "systemName": "Naples Metro",
+      "fare": {
+        "single": "€1.50 (~$1.65)",
+        "dayPass": "€4.50 (~$5.00)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "06:00",
+        "lastTrain": "23:00",
+        "notes": "Line 1 only fully operational metro line. Line 6 under construction with airport extension coming in 2026."
+      },
+      "frequency": {
+        "peak": "6-8 min",
+        "offPeak": "10-15 min"
+      },
+      "network": {
+        "lengthKm": 18,
+        "lines": 1,
+        "stations": 19
+      },
+      "facilities": [
+        "art stations",
+        "integrated with funiculars",
+        "Campania ArteCard integration"
+      ],
+      "cardTip": "Buy single tickets at any station machine. A day ticket covers metro bus tram and funiculars for four fifty.",
+      "dayPassTip": "The day ticket at four fifty is a steal. It covers the metro the buses and all four funicular lines up the hills.",
+      "signatureRoute": {
+        "from": "Toledo",
+        "to": "Universita",
+        "line": "Line 1",
+        "time": "2 min",
+        "fare": "€1.50",
+        "why": "Two of the most beautiful metro stations in the world back to back"
+      },
+      "specialFact": "Toledo station was named the most beautiful metro station in Europe. The blue mosaic ceiling makes you feel like you are underwater. Universita station has art installations by Karim Rashid.",
+      "quirk": "Only one real metro line with nineteen stations but each one is a contemporary art gallery. They call it the Art Metro and it is worth riding just for the stations.",
+      "originPoint": "Naples Airport — currently no metro connection but the Line 1 extension to Capodichino Airport is opening in 2026. For now take the Alibus shuttle to Garibaldi station.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 5,
+        "frequency": 2,
+        "touristFriendly": 3,
+        "coverage": 2,
+        "overall": 3.0
+      }
+    },
+    {
+      "city": "Brussels",
+      "country": "Belgium",
+      "systemName": "Brussels Metro",
+      "fare": {
+        "single": "€2.10 (~$2.30)",
+        "dayPass": "€7.50 (~$8.25)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:30",
+        "notes": "Friday and Saturday service extended to 01:00. Sunday starts at 06:00."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "7-10 min"
+      },
+      "network": {
+        "lengthKm": 40,
+        "lines": 4,
+        "stations": 59
+      },
+      "facilities": [
+        "MOBIB contactless card",
+        "Brupass integrated tickets",
+        "art in stations",
+        "connection to Eurostar at Gare du Midi"
+      ],
+      "cardTip": "Buy a MOBIB Basic card at any station or use contactless bank cards. One ticket covers metro tram and bus with free transfers for sixty minutes.",
+      "dayPassTip": "The day pass at seven fifty covers metro tram and bus all day. Worth it after three rides.",
+      "signatureRoute": {
+        "from": "De Brouckere",
+        "to": "Schuman",
+        "line": "Line 1",
+        "time": "8 min",
+        "fare": "€2.10",
+        "why": "From the city center straight to the European Union quarter"
+      },
+      "specialFact": "Many stations double as art galleries with contemporary murals and installations. The system also has premetro lines that are underground trams running through tunnels.",
+      "quirk": "Brussels has two names for every station because everything is in both French and Dutch. De Brouckere Louise Porte de Namur all have dual language signs everywhere.",
+      "originPoint": "Brussels Airport — take the train to Gare Centrale or Gare du Midi then transfer to the metro. About twenty five minutes by train.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 4,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Helsinki",
+      "country": "Finland",
+      "systemName": "Helsinki Metro",
+      "fare": {
+        "single": "€3.30 (~$3.60, AB zone)",
+        "dayPass": "€10.60 (~$11.60, AB zone day ticket)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:15",
+        "lastTrain": "23:30",
+        "notes": "No overnight service. Two lines serving Helsinki and Espoo."
+      },
+      "frequency": {
+        "peak": "4-5 min",
+        "offPeak": "8-10 min"
+      },
+      "network": {
+        "lengthKm": 43,
+        "lines": 2,
+        "stations": 30
+      },
+      "facilities": [
+        "HSL app",
+        "integrated with tram and bus",
+        "deep underground stations",
+        "heated platforms"
+      ],
+      "cardTip": "Download the HSL app and buy tickets on your phone. Must have a valid ticket before entering the platform area.",
+      "dayPassTip": "The AB zone day ticket is about eleven euros and covers metro tram bus and the Suomenlinna ferry.",
+      "signatureRoute": {
+        "from": "Rautatientori (Central Station)",
+        "to": "Hakaniemi",
+        "line": "M1/M2",
+        "time": "3 min",
+        "fare": "€3.30",
+        "why": "Quickest way between the central station and the famous Hakaniemi market hall"
+      },
+      "specialFact": "The world's northernmost metro system. The stations are carved deep into solid granite bedrock. Some are over thirty meters underground.",
+      "quirk": "Only two lines and thirty stations serving a city of less than a million people. But the metro extension to Espoo cut commute times in half when it opened.",
+      "originPoint": "Helsinki Airport — the airport is in zone C. Take the regional train to the city center then transfer to the metro at Rautatientori.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 3,
+        "frequency": 3,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Oslo",
+      "country": "Norway",
+      "systemName": "Oslo T-bane",
+      "fare": {
+        "single": "46 NOK (~$4.30, Zone 1, 90-min)",
+        "dayPass": "~115 NOK (~$10.80, 24h zone 1)",
+        "currency": "NOK"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "01:00",
+        "notes": "All five lines share a common tunnel through the city center. Night buses replace metro after closing."
+      },
+      "frequency": {
+        "peak": "3-5 min (common tunnel)",
+        "offPeak": "10-15 min"
+      },
+      "network": {
+        "lengthKm": 85,
+        "lines": 5,
+        "stations": 101
+      },
+      "facilities": [
+        "Ruter app",
+        "integrated with tram and bus",
+        "scenic forest and fjord views",
+        "Holmenkollen ski jump station"
+      ],
+      "cardTip": "Download the Ruter app and buy tickets digitally. One ticket covers metro tram bus and harbour ferries for ninety minutes.",
+      "dayPassTip": "Buy a twenty four hour zone one pass through the Ruter app. Covers all transport in central Oslo including the harbour ferries.",
+      "signatureRoute": {
+        "from": "Majorstuen",
+        "to": "Frognerseteren",
+        "line": "Line 1",
+        "time": "25 min",
+        "fare": "46 NOK",
+        "why": "From the city up through the forest to the Holmenkollen ski jump with panoramic views of the Oslo fjord"
+      },
+      "specialFact": "Line 1 takes you from the city center up into the forest to the Holmenkollen ski jump. The views of the Oslo fjord from the elevated stations are spectacular.",
+      "quirk": "Five lines but they all share one common tunnel through the city center. In rush hour trains pass through every two to three minutes. Outside the center the lines branch out in every direction like a spider web.",
+      "originPoint": "Oslo Airport Gardermoen — take the Flytoget express train to Oslo S in about twenty minutes. Then transfer to any T-bane line from Jernbanetorget station.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 2,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Warsaw",
+      "country": "Poland",
+      "systemName": "Warsaw Metro",
+      "fare": {
+        "single": "4.40 PLN (~$1.10, 20-min) / 6.00 PLN (~$1.50, 75-min)",
+        "dayPass": "17.00 PLN (~$4.30, 24h ticket)",
+        "currency": "PLN"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "01:00",
+        "notes": "Extended to 03:00 on Friday and Saturday nights."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 41,
+        "lines": 2,
+        "stations": 39
+      },
+      "facilities": [
+        "ZTM integrated tickets",
+        "contactless payment",
+        "modern M2 stations",
+        "weekend night service"
+      ],
+      "cardTip": "Buy tickets at machines in the station using contactless card or cash. A seventy five minute ticket covers metro bus and tram.",
+      "dayPassTip": "A twenty four hour pass costs about four dollars and covers every bus tram and metro in the city.",
+      "signatureRoute": {
+        "from": "Centrum Nauki Kopernik",
+        "to": "Nowy Swiat-Uniwersytet",
+        "line": "M2",
+        "time": "3 min",
+        "fare": "4.40 PLN",
+        "why": "From the Copernicus Science Centre under the Vistula river to the heart of old Warsaw"
+      },
+      "specialFact": "Line M2 runs under the Vistula river connecting the east and west banks. The crossing takes about sixty seconds underground beneath the water.",
+      "quirk": "M2 stations have modern minimalist designs with each station lit in a different color. The contrast with the Soviet era M1 stations is dramatic.",
+      "originPoint": "Warsaw Chopin Airport — no metro connection. Take bus 175 or 188 to the city center then connect to the metro. About forty minutes.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 5,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 4.0
+      }
+    },
+    {
+      "city": "Bucharest",
+      "country": "Romania",
+      "systemName": "Bucharest Metro",
+      "fare": {
+        "single": "3 LEI (~$0.65)",
+        "dayPass": "8 LEI (~$1.75)",
+        "currency": "RON"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "23:00",
+        "notes": "Five lines. No overnight service."
+      },
+      "frequency": {
+        "peak": "4-6 min",
+        "offPeak": "8-10 min"
+      },
+      "network": {
+        "lengthKm": 77,
+        "lines": 5,
+        "stations": 63
+      },
+      "facilities": [
+        "contactless card at gates",
+        "AC on newer trains",
+        "integrated with surface transport"
+      ],
+      "cardTip": "Buy a contactless metro card at any station. Load it with trips or a day pass.",
+      "dayPassTip": "A day pass costs less than two dollars. Unlimited metro rides for the entire day. One of the cheapest in Europe.",
+      "signatureRoute": {
+        "from": "Piata Unirii",
+        "to": "Piata Victoriei",
+        "line": "M2",
+        "time": "8 min",
+        "fare": "3 LEI",
+        "why": "From the communist era Palace of Parliament area to the government district"
+      },
+      "specialFact": "Three lei for a single ride. That is about sixty five cents. One of the cheapest metro systems in the European Union by a wide margin.",
+      "quirk": "The M1 line was built during the communist era and some stations still have that brutalist concrete aesthetic. The contrast with the modern M5 stations is striking.",
+      "originPoint": "Bucharest Henri Coanda Airport — take the express bus 783 to the city center then transfer to the metro. A direct rail link is planned but not yet built.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 5,
+        "frequency": 3,
+        "touristFriendly": 3,
+        "coverage": 3,
+        "overall": 3.4
+      }
+    },
+    {
+      "city": "Lyon",
+      "country": "France",
+      "systemName": "Lyon Metro",
+      "fare": {
+        "single": "€2.00 (~$2.20)",
+        "dayPass": "€6.70 (~$7.35, Ticket Liberte Jour)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:00",
+        "notes": "Four lines including the driverless Line D. Funiculars to Fourviere also integrated."
+      },
+      "frequency": {
+        "peak": "2-4 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 34.4,
+        "lines": 4,
+        "stations": 42
+      },
+      "facilities": [
+        "TCL Tecely card",
+        "driverless Line D",
+        "funicular integration",
+        "contactless payment"
+      ],
+      "cardTip": "Buy a TCL Tecely card or use the TCL app. Tickets cover metro bus tram and the two funiculars up to Fourviere.",
+      "dayPassTip": "The day ticket costs less than seven euros and covers everything including the funicular up to the basilica.",
+      "signatureRoute": {
+        "from": "Vieux Lyon",
+        "to": "Fourviere (funicular)",
+        "line": "Funicular F2",
+        "time": "3 min",
+        "fare": "€2.00",
+        "why": "From the medieval old town straight up the hill to the Basilica of Notre-Dame de Fourviere with panoramic city views"
+      },
+      "specialFact": "Line D was the first fully driverless metro in France when it opened in nineteen ninety one. You can sit in the front and watch the tunnel fly at you.",
+      "quirk": "Line C is not really a metro. It is a rack railway that climbs the steep Croix-Rousse hill using a cog system. One of the few rack railway urban metro lines in the world.",
+      "originPoint": "Lyon Saint-Exupery Airport — take the Rhonexpress tram to Part-Dieu station then transfer to the metro. About thirty minutes.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 4,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Lille",
+      "country": "France",
+      "systemName": "Lille Metro (VAL)",
+      "fare": {
+        "single": "€1.80 (~$2.00)",
+        "dayPass": "€5.40 (~$5.90)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "05:17",
+        "lastTrain": "00:30",
+        "notes": "World's first fully automatic metro. Two driverless lines."
+      },
+      "frequency": {
+        "peak": "1-1.5 min (Line 1)",
+        "offPeak": "4-6 min"
+      },
+      "network": {
+        "lengthKm": 45,
+        "lines": 2,
+        "stations": 60
+      },
+      "facilities": [
+        "Pass Pass contactless card",
+        "fully driverless since 1983",
+        "platform screen doors at all stations",
+        "rubber-tyred trains"
+      ],
+      "cardTip": "Buy a Pass Pass card at any station or use the Ilevia app. One ticket covers metro tram and bus for one hour.",
+      "dayPassTip": "The day pass costs about five forty and gives unlimited rides on metro tram and bus for twenty four hours.",
+      "signatureRoute": {
+        "from": "Gare Lille Flandres",
+        "to": "4 Cantons Stade Pierre-Mauroy",
+        "line": "Line 1",
+        "time": "15 min",
+        "fare": "€1.80",
+        "why": "From the historic train station to the major football stadium through the university campus"
+      },
+      "specialFact": "The world's first fully automatic driverless metro in regular commercial service. Opened in nineteen eighty three. Every train has run without a driver since day one.",
+      "quirk": "During peak hours on Line 1 a train arrives every sixty seconds. That is among the highest frequencies of any two line metro in Europe. All thanks to full automation.",
+      "originPoint": "Lille has no commercial airport but the Eurostar stops at Gare Lille Europe. Walk to Gare Lille Flandres and take the metro from there.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 4,
+        "frequency": 5,
+        "touristFriendly": 3,
+        "coverage": 3,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Hamburg",
+      "country": "Germany",
+      "systemName": "Hamburg U-Bahn",
+      "fare": {
+        "single": "€4.10 (~$4.50, Hamburg AB)",
+        "dayPass": "€8.20 (~$9.00, Hamburg AB)",
+        "currency": "EUR"
+      },
+      "hours": {
+        "firstTrain": "04:00",
+        "lastTrain": "01:00",
+        "notes": "Continuous overnight service on nights before Saturdays Sundays and public holidays."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "5-10 min"
+      },
+      "network": {
+        "lengthKm": 106,
+        "lines": 4,
+        "stations": 93
+      },
+      "facilities": [
+        "HVV app with 7% discount",
+        "continuous weekend night service",
+        "scenic elevated U3 line",
+        "harbour ferry integration"
+      ],
+      "cardTip": "Buy tickets through the HVV app for a seven percent discount. Or tap at machines at any station. One ticket covers U-Bahn S-Bahn bus and harbour ferries.",
+      "dayPassTip": "The Hamburg AB day ticket costs about eight euros and includes U-Bahn S-Bahn buses and the public harbour ferries. The ferries are basically a free harbour cruise.",
+      "signatureRoute": {
+        "from": "Landungsbrucken",
+        "to": "Rathaus",
+        "line": "U3",
+        "time": "8 min",
+        "fare": "€4.10",
+        "why": "Elevated viaduct with views of the Elbe harbour Speicherstadt and the Elbphilharmonie"
+      },
+      "specialFact": "The U3 line runs on an elevated viaduct above the harbour between Baumwall and Landungsbrucken. The view of the Elbphilharmonie and the docks from the train window is one of the best free views in Hamburg.",
+      "quirk": "Hamburg runs continuous all night U-Bahn and S-Bahn service on weekends. And the public harbour ferries are included in your regular transit ticket making them the cheapest harbour cruise in the world.",
+      "originPoint": "Hamburg Airport — the S1 runs from the airport terminal to the city center in about twenty five minutes. Transfer to the U-Bahn at Hauptbahnhof.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 3,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Taipei",
+      "country": "Taiwan",
+      "systemName": "Taipei MRT",
+      "fare": {
+        "single": "NT$20-65 (~$0.60-$2.00, distance-based)",
+        "dayPass": "NT$200 (~$6.20, 24h pass)",
+        "currency": "TWD"
+      },
+      "hours": {
+        "firstTrain": "06:00",
+        "lastTrain": "00:00",
+        "notes": "24h service on New Year's Eve. Six main lines plus two branch lines."
+      },
+      "frequency": {
+        "peak": "2-4 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 152,
+        "lines": 6,
+        "stations": 131
+      },
+      "facilities": [
+        "EasyCard contactless",
+        "credit card tap since 2026",
+        "free wifi",
+        "no eating or drinking (fine)",
+        "AC"
+      ],
+      "cardTip": "Get an EasyCard at any metro station or Seven Eleven. It works on metro buses YouBike and even convenience store purchases.",
+      "dayPassTip": "The twenty four hour pass costs about six dollars and is worth it if you make five or more rides in a day.",
+      "signatureRoute": {
+        "from": "Ximen",
+        "to": "Taipei 101/World Trade Center",
+        "line": "Red Line (Tamsui-Xinyi)",
+        "time": "10 min",
+        "fare": "NT$25 (~$0.78)",
+        "why": "From the youth culture hub of Ximending directly to the base of Taipei 101"
+      },
+      "specialFact": "No eating no drinking no chewing gum on the MRT. They enforce it. Fines start at seven thousand five hundred Taiwan dollars. This is the cleanest metro you will ride in Asia.",
+      "quirk": "The Wenhu Line is fully driverless and elevated. You can sit in the front and watch the city fly by through the panoramic window as the train snakes between skyscrapers.",
+      "originPoint": "Taoyuan Airport — take the Taoyuan Airport MRT to Taipei Main Station. About thirty five minutes on the express. Transfer to any metro line there.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 5,
+        "frequency": 5,
+        "touristFriendly": 5,
+        "coverage": 4,
+        "overall": 4.8
+      }
+    },
+    {
+      "city": "Hong Kong",
+      "country": "China (SAR)",
+      "systemName": "Hong Kong MTR",
+      "fare": {
+        "single": "HK$6.20-65 (~$0.80-$8.30, distance-based, Octopus)",
+        "dayPass": "HK$75 (~$9.60, Tourist Day Pass)",
+        "currency": "HKD"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "01:00",
+        "notes": "10 urban lines plus Airport Express."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "4-8 min"
+      },
+      "network": {
+        "lengthKm": 261,
+        "lines": 10,
+        "stations": 98
+      },
+      "facilities": [
+        "Octopus contactless card",
+        "Airport Express",
+        "free wifi",
+        "AC",
+        "platform screen doors",
+        "cross-border to Shenzhen"
+      ],
+      "cardTip": "Get an Octopus card at any MTR station. It works on trains buses ferries and in shops restaurants and convenience stores everywhere.",
+      "dayPassTip": "The Tourist Day Pass costs about ten dollars for twenty four hours of unlimited MTR rides. You need your passport to buy it.",
+      "signatureRoute": {
+        "from": "Central",
+        "to": "Tsim Sha Tsui",
+        "line": "Tsuen Wan Line",
+        "time": "5 min",
+        "fare": "HK$13 (~$1.67)",
+        "why": "Under Victoria Harbour from Hong Kong Island to Kowloon in five minutes"
+      },
+      "specialFact": "The Octopus card is not just a transit card. It is a way of life. You can pay for taxis groceries vending machines fast food and even parking with it. Over thirty five million cards are in circulation in a city of seven million people.",
+      "quirk": "The MTR runs at ninety nine point nine percent on-time performance. It is consistently ranked the most reliable metro system in the world.",
+      "originPoint": "Hong Kong Airport — take the Airport Express to Hong Kong station in twenty four minutes. Or the much cheaper S1 bus to Tung Chung then take the Tung Chung Line into the city.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 4,
+        "frequency": 5,
+        "touristFriendly": 5,
+        "coverage": 4,
+        "overall": 4.6
+      }
+    },
+    {
+      "city": "Busan",
+      "country": "South Korea",
+      "systemName": "Busan Metro",
+      "fare": {
+        "single": "₩1,450-1,650 (~$1.00-$1.15, T-money)",
+        "dayPass": "₩5,000 (~$3.50, 1-day pass)",
+        "currency": "KRW"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:00",
+        "notes": "Four lines plus the Busan-Gimhae Light Rail."
+      },
+      "frequency": {
+        "peak": "4-6 min",
+        "offPeak": "8-10 min"
+      },
+      "network": {
+        "lengthKm": 128,
+        "lines": 5,
+        "stations": 128
+      },
+      "facilities": [
+        "T-money/Cashbee card",
+        "free wifi",
+        "AC",
+        "ocean views on Line 2",
+        "multilingual signage"
+      ],
+      "cardTip": "Use the same T-money card from Seoul. It works on all Busan metro buses and even taxis.",
+      "dayPassTip": "The one day pass costs about three fifty and gives unlimited rides on all metro lines.",
+      "signatureRoute": {
+        "from": "Haeundae",
+        "to": "Centum City",
+        "line": "Line 2",
+        "time": "5 min",
+        "fare": "₩1,450",
+        "why": "From Korea's most famous beach to the world's largest department store"
+      },
+      "specialFact": "Line 4 is a completely driverless rubber tired light metro that climbs through the hills above the city. The views of the harbor and bridges from the elevated stations are incredible.",
+      "quirk": "Busan Metro Line 2 runs along the coast and you can see the ocean from some elevated stations. The beach culture of Haeundae is just steps from the metro.",
+      "originPoint": "Gimhae Airport — take the Busan-Gimhae Light Rail to Sasang station then transfer to Line 2. About thirty minutes to the city center.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 5,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 4.4
+      }
+    },
+    {
+      "city": "Kyoto",
+      "country": "Japan",
+      "systemName": "Kyoto Subway",
+      "fare": {
+        "single": "¥220-360 (~$1.50-$2.40)",
+        "dayPass": "¥800 (~$5.40, subway 1-day pass)",
+        "currency": "JPY"
+      },
+      "hours": {
+        "firstTrain": "05:15",
+        "lastTrain": "23:30",
+        "notes": "Two lines. Buses are often more useful for temple hopping."
+      },
+      "frequency": {
+        "peak": "4-5 min",
+        "offPeak": "7-10 min"
+      },
+      "network": {
+        "lengthKm": 31.2,
+        "lines": 2,
+        "stations": 31
+      },
+      "facilities": [
+        "ICOCA/Suica contactless",
+        "clean and quiet",
+        "connects to JR and Hankyu lines"
+      ],
+      "cardTip": "Use your ICOCA or Suica card from anywhere in Japan. Tap in tap out. Works on both subway lines and city buses.",
+      "dayPassTip": "The subway day pass costs about five fifty. But for temple hopping consider the bus and subway combo pass at eleven hundred yen.",
+      "signatureRoute": {
+        "from": "Kyoto Station",
+        "to": "Shijo",
+        "line": "Karasuma Line",
+        "time": "5 min",
+        "fare": "¥220",
+        "why": "From the main station to the heart of the Gion geisha district and Nishiki Market"
+      },
+      "specialFact": "Kyoto only has two subway lines because digging underground keeps hitting archaeological sites. Every construction project turns into an archaeological excavation.",
+      "quirk": "The subway is clean efficient and mostly empty compared to Tokyo. But it only covers a fraction of the city. Most tourists end up on the buses to reach the famous temples.",
+      "originPoint": "Kansai Airport — take the Haruka Express to Kyoto Station in about seventy five minutes. The Karasuma subway line starts right there.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 4,
+        "frequency": 3,
+        "touristFriendly": 4,
+        "coverage": 2,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Nagoya",
+      "country": "Japan",
+      "systemName": "Nagoya Subway",
+      "fare": {
+        "single": "¥210-340 (~$1.40-$2.30)",
+        "dayPass": "¥760 (~$5.10, weekend/holiday subway pass)",
+        "currency": "JPY"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:00",
+        "notes": "Six lines. Donichi Eco Kippu weekend pass covers subway and bus."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "7-10 min"
+      },
+      "network": {
+        "lengthKm": 93.3,
+        "lines": 6,
+        "stations": 87
+      },
+      "facilities": [
+        "Manaca/ICOCA contactless",
+        "clean and punctual",
+        "connects to JR and Meitetsu"
+      ],
+      "cardTip": "Use your ICOCA or Suica card. Works on all six subway lines and city buses.",
+      "dayPassTip": "The Donichi Eco Kippu costs about five dollars on weekends and holidays and covers subway plus all city buses.",
+      "signatureRoute": {
+        "from": "Nagoya Station",
+        "to": "Sakae",
+        "line": "Higashiyama Line",
+        "time": "5 min",
+        "fare": "¥210",
+        "why": "From the main station to the shopping and entertainment heart of Nagoya"
+      },
+      "specialFact": "Six lines and eighty seven stations make it the third largest subway in Japan. And it is spotlessly clean like every Japanese transit system.",
+      "quirk": "The Meiko Line runs under the port area and connects to the Nagoya Port Aquarium. One of the few metro systems in the world that takes you right to an aquarium.",
+      "originPoint": "Chubu Centrair Airport — take the Meitetsu train to Nagoya Station in about thirty minutes. Transfer to any subway line there.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 4,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 4.2
+      }
+    },
+    {
+      "city": "Fukuoka",
+      "country": "Japan",
+      "systemName": "Fukuoka Subway",
+      "fare": {
+        "single": "¥210-380 (~$1.40-$2.60)",
+        "dayPass": "¥640 (~$4.30, 1-day pass)",
+        "currency": "JPY"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:25",
+        "notes": "Three lines. Airport line connects directly to the domestic terminal."
+      },
+      "frequency": {
+        "peak": "4-5 min",
+        "offPeak": "7-10 min"
+      },
+      "network": {
+        "lengthKm": 29.8,
+        "lines": 3,
+        "stations": 35
+      },
+      "facilities": [
+        "Hayakaken/ICOCA contactless",
+        "airport connection",
+        "clean and efficient"
+      ],
+      "cardTip": "Use any Japanese IC card. Suica ICOCA Hayakaken all work. Tap in tap out.",
+      "dayPassTip": "The one day pass costs about four dollars and covers all three subway lines. Worth it after three rides.",
+      "signatureRoute": {
+        "from": "Fukuoka Airport",
+        "to": "Tenjin",
+        "line": "Airport Line (Kuko)",
+        "time": "11 min",
+        "fare": "¥260",
+        "why": "From the airplane to the city center in eleven minutes. One of the fastest airport metro connections in the world"
+      },
+      "specialFact": "Eleven minutes from the airport to the city center by subway. Fukuoka has one of the closest airports to a city center anywhere in the world and the metro goes right to it.",
+      "quirk": "The Nanakuma Line uses a unique linear motor technology. The trains are smaller than standard metro trains which allowed them to build smaller cheaper tunnels.",
+      "originPoint": "Fukuoka Airport — the metro station is right inside the domestic terminal. International terminal has a free shuttle bus to the domestic terminal then straight onto the subway.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 4,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 4.0
+      }
+    },
+    {
+      "city": "Sapporo",
+      "country": "Japan",
+      "systemName": "Sapporo Subway",
+      "fare": {
+        "single": "¥210-380 (~$1.40-$2.60)",
+        "dayPass": "¥830 (~$5.60) / ¥520 (~$3.50, Donichika weekend pass)",
+        "currency": "JPY"
+      },
+      "hours": {
+        "firstTrain": "06:00",
+        "lastTrain": "00:00",
+        "notes": "Three lines. Rubber-tyred trains on all lines."
+      },
+      "frequency": {
+        "peak": "4-5 min",
+        "offPeak": "7-10 min"
+      },
+      "network": {
+        "lengthKm": 48,
+        "lines": 3,
+        "stations": 46
+      },
+      "facilities": [
+        "SAPICA/ICOCA contactless",
+        "heated stations",
+        "rubber-tyred for snow resilience",
+        "underground passages"
+      ],
+      "cardTip": "SAPICA card gives you ten percent point rewards on every ride. Or use any IC card like Suica or ICOCA.",
+      "dayPassTip": "The Donichika ticket costs only five twenty on weekends and holidays. Unlimited subway rides all day for about three fifty.",
+      "signatureRoute": {
+        "from": "Odori",
+        "to": "Susukino",
+        "line": "Namboku Line",
+        "time": "2 min",
+        "fare": "¥210",
+        "why": "From the TV Tower and park to the famous entertainment district in one stop"
+      },
+      "specialFact": "All three lines use rubber tyres instead of steel wheels. It was designed this way to handle the extreme cold and heavy snowfall of northern Japan.",
+      "quirk": "Sapporo built an extensive underground walking network connecting subway stations and shopping areas so you never have to go outside during the brutal winters.",
+      "originPoint": "New Chitose Airport — take the JR Airport Express train to Sapporo Station in about thirty seven minutes. Transfer to any subway line at Sapporo Station.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 4,
+        "frequency": 3,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "systemName": "Riyadh Metro",
+      "fare": {
+        "single": "SAR 4 (~$1.07, 2h Standard pass)",
+        "dayPass": "SAR 20 (~$5.33, 3-day pass)",
+        "currency": "SAR"
+      },
+      "hours": {
+        "firstTrain": "06:00 (Sat-Thu) / 08:00 (Fri)",
+        "lastTrain": "00:00",
+        "notes": "Six lines. World's longest driverless metro network. First Class available at double fare."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "5-10 min"
+      },
+      "network": {
+        "lengthKm": 176,
+        "lines": 6,
+        "stations": 85
+      },
+      "facilities": [
+        "Darb app",
+        "fully driverless GoA4",
+        "First Class cabins",
+        "Family carriages",
+        "platform screen doors",
+        "airport connection Line 4"
+      ],
+      "cardTip": "Download the Darb app and buy tickets digitally. You can also buy from vending machines at every station.",
+      "dayPassTip": "The three day pass costs about five dollars. Covers unlimited metro and bus rides. First Class is double.",
+      "signatureRoute": {
+        "from": "KKIA Airport T1-2",
+        "to": "KAFD",
+        "line": "Line 4 (Yellow)",
+        "time": "25 min",
+        "fare": "SAR 4",
+        "why": "Direct airport to financial district connection through the heart of the city"
+      },
+      "specialFact": "Guinness World Record holder for the longest driverless metro network in the world. Six lines and a hundred seventy six kilometers all launched within weeks in late twenty twenty four and early twenty twenty five.",
+      "quirk": "Three classes on every train. Standard Family and First. First Class has leather seats and a separate entrance. For about three dollars you ride like royalty.",
+      "originPoint": "King Khalid Airport — Line 4 Yellow runs directly from all airport terminals to KAFD and the city center. Download the Darb app before landing.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 5,
+        "frequency": 4,
+        "touristFriendly": 3,
+        "coverage": 3,
+        "overall": 4.0
+      }
+    },
+    {
+      "city": "Doha",
+      "country": "Qatar",
+      "systemName": "Doha Metro",
+      "fare": {
+        "single": "QAR 2 (~$0.55, Standard)",
+        "dayPass": "QAR 6 (~$1.65, Standard day pass)",
+        "currency": "QAR"
+      },
+      "hours": {
+        "firstTrain": "05:30 (Sat-Wed) / 05:30 (Thu) / 14:00 (Fri)",
+        "lastTrain": "00:00 (Thu) / 23:00 (Sun-Wed)",
+        "notes": "Three lines. Fully driverless. Gold Class available. Friday start delayed for prayers."
+      },
+      "frequency": {
+        "peak": "3-6 min",
+        "offPeak": "6 min"
+      },
+      "network": {
+        "lengthKm": 76,
+        "lines": 3,
+        "stations": 37
+      },
+      "facilities": [
+        "travel card from vending machines",
+        "fully driverless",
+        "Gold Class cabin",
+        "Family carriages",
+        "airport connection on Red Line",
+        "free Metrolink feeder buses"
+      ],
+      "cardTip": "Buy a day pass from any station vending machine. Standard costs six rials which is less than two dollars for unlimited rides all day.",
+      "dayPassTip": "Six Qatari rials for a full day of unlimited metro rides. That is about one dollar sixty five. One of the cheapest day passes on earth.",
+      "signatureRoute": {
+        "from": "Hamad International Airport",
+        "to": "Msheireb",
+        "line": "Red Line",
+        "time": "20 min",
+        "fare": "QAR 2",
+        "why": "Airport to the city center hub where all three lines meet"
+      },
+      "specialFact": "Built from scratch for the twenty twenty two FIFA World Cup. Three lines opened in twenty nineteen and connected every stadium in the country.",
+      "quirk": "A day pass costs less than a dollar seventy. Every station was designed by the Emir himself. And the Gold Class cabin gives you airline style seats for barely more than standard.",
+      "originPoint": "Hamad International Airport — the Red Line station is right in the terminal. Twenty minutes to Msheireb in the city center. Buy a day pass at the machine for six rials.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 5,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 4.2
+      }
+    },
+    {
+      "city": "Chicago",
+      "country": "United States",
+      "systemName": "Chicago 'L'",
+      "fare": {
+        "single": "$2.50 (Ventra card)",
+        "dayPass": "$5.00 (1-day CTA pass)",
+        "currency": "USD"
+      },
+      "hours": {
+        "firstTrain": "24/7 (Red/Blue Lines)",
+        "lastTrain": "24/7 (Red/Blue Lines)",
+        "notes": "Red and Blue lines run 24/7. Other lines run approximately 04:00-01:00."
+      },
+      "frequency": {
+        "peak": "3-7 min",
+        "offPeak": "8-15 min"
+      },
+      "network": {
+        "lengthKm": 165,
+        "lines": 8,
+        "stations": 145
+      },
+      "facilities": [
+        "Ventra contactless card",
+        "contactless bank card payment",
+        "24/7 Red and Blue lines",
+        "O'Hare airport connection"
+      ],
+      "cardTip": "Tap your contactless bank card or phone at the reader. No special card needed. Two fifty per ride with free transfers.",
+      "dayPassTip": "A one day pass costs five dollars for unlimited rides on all L trains and buses. Pays for itself in three rides.",
+      "signatureRoute": {
+        "from": "O'Hare Airport",
+        "to": "The Loop",
+        "line": "Blue Line",
+        "time": "45 min",
+        "fare": "$5.00 (from O'Hare)",
+        "why": "Cheapest airport transfer in Chicago and the train runs twenty four seven"
+      },
+      "specialFact": "The Loop where the elevated tracks circle the downtown core gives the system its name. You can ride the Brown Line in a full circle around the skyscrapers of downtown Chicago.",
+      "quirk": "Two lines run all night. At four in the morning you can still catch a Blue Line train to the airport. The L has been running since eighteen ninety two making it one of the oldest in the world.",
+      "originPoint": "O'Hare Airport — the Blue Line station is right in the terminal. Runs 24/7. About forty five minutes to the Loop. From Midway take the Orange Line.",
+      "ratings": {
+        "cleanliness": 2,
+        "affordability": 4,
+        "frequency": 4,
+        "touristFriendly": 3,
+        "coverage": 4,
+        "overall": 3.4
+      }
+    },
+    {
+      "city": "Washington DC",
+      "country": "United States",
+      "systemName": "Washington Metro (WMATA)",
+      "fare": {
+        "single": "$2.25-$6.75 (distance + time based)",
+        "dayPass": "$13.50 (1-day unlimited pass)",
+        "currency": "USD"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:00 (Fri/Sat 01:00)",
+        "notes": "Six lines. SmarTrip or contactless bank card required."
+      },
+      "frequency": {
+        "peak": "4-6 min",
+        "offPeak": "8-15 min"
+      },
+      "network": {
+        "lengthKm": 188,
+        "lines": 6,
+        "stations": 98
+      },
+      "facilities": [
+        "SmarTrip contactless",
+        "contactless bank card payment",
+        "airport connections (Reagan + Dulles)",
+        "vaulted station ceilings"
+      ],
+      "cardTip": "Tap your contactless bank card or phone at the fare gate. SmarTrip cards also work. Fares vary by distance and time of day.",
+      "dayPassTip": "The one day unlimited pass costs thirteen fifty and covers all metro rail rides. Worth it if you plan more than three rides.",
+      "signatureRoute": {
+        "from": "Smithsonian",
+        "to": "Arlington Cemetery",
+        "line": "Blue/Yellow Line",
+        "time": "5 min",
+        "fare": "~$2.25",
+        "why": "From the National Mall across the Potomac to Arlington National Cemetery"
+      },
+      "specialFact": "The vaulted coffered ceilings in the stations are an architectural icon. Brutalist design that somehow looks elegant. Every station has the same pattern but each one feels different.",
+      "quirk": "Fares change by time of day. Rush hour rides cost more than off peak rides. And distance matters too. A long rush hour trip can cost nearly seven dollars.",
+      "originPoint": "Reagan National Airport — the Yellow and Blue lines stop right at the terminal. About fifteen minutes to the National Mall. Dulles Airport now has the Silver Line.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 2,
+        "frequency": 3,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 3.2
+      }
+    },
+    {
+      "city": "San Francisco",
+      "country": "United States",
+      "systemName": "BART",
+      "fare": {
+        "single": "$2.15-$15.65 (distance-based)",
+        "dayPass": "No traditional day pass",
+        "currency": "USD"
+      },
+      "hours": {
+        "firstTrain": "05:00 (weekdays) / 06:00 (Sat) / 08:00 (Sun)",
+        "lastTrain": "00:00",
+        "notes": "Five lines. More commuter rail than metro. Connects to SFO and Oakland airports."
+      },
+      "frequency": {
+        "peak": "5-10 min",
+        "offPeak": "15-20 min"
+      },
+      "network": {
+        "lengthKm": 196,
+        "lines": 5,
+        "stations": 50
+      },
+      "facilities": [
+        "Clipper Card",
+        "contactless payment",
+        "SFO airport connection",
+        "Oakland airport connection"
+      ],
+      "cardTip": "Get a Clipper Card or tap your contactless bank card. BART is distance based so fares vary a lot depending on how far you go.",
+      "dayPassTip": "There is no standard day pass. For tourists just load a Clipper card and pay per ride. The fare from the airport to downtown is about ten dollars.",
+      "signatureRoute": {
+        "from": "SFO Airport",
+        "to": "Powell Street",
+        "line": "Yellow/Red Line",
+        "time": "30 min",
+        "fare": "~$10.20",
+        "why": "From the airport straight to Union Square and the cable cars"
+      },
+      "specialFact": "BART runs under the San Francisco Bay through a tube that sits on the ocean floor. The Transbay Tube is over five kilometers long and takes about nine minutes to cross.",
+      "quirk": "It looks like a metro but acts like a commuter rail. Station spacing is huge. Some stations are fifteen minutes apart. It is built for crossing the Bay not for hopping around neighborhoods.",
+      "originPoint": "SFO Airport — BART runs directly from the international terminal to downtown San Francisco. About thirty minutes to Powell Street.",
+      "ratings": {
+        "cleanliness": 2,
+        "affordability": 2,
+        "frequency": 2,
+        "touristFriendly": 3,
+        "coverage": 3,
+        "overall": 2.4
+      }
+    },
+    {
+      "city": "Los Angeles",
+      "country": "United States",
+      "systemName": "LA Metro",
+      "fare": {
+        "single": "$1.75 (flat fare)",
+        "dayPass": "$3.50 (day cap, automatic)",
+        "currency": "USD"
+      },
+      "hours": {
+        "firstTrain": "04:30",
+        "lastTrain": "00:30",
+        "notes": "Six rail lines. TAP card or contactless bank card."
+      },
+      "frequency": {
+        "peak": "5-8 min",
+        "offPeak": "10-15 min"
+      },
+      "network": {
+        "lengthKm": 157,
+        "lines": 6,
+        "stations": 93
+      },
+      "facilities": [
+        "TAP card",
+        "contactless bank card payment",
+        "automatic daily fare cap",
+        "LAX connection via K Line"
+      ],
+      "cardTip": "Tap your bank card or phone. The fare is just one seventy five per ride. Automatic daily cap at three fifty.",
+      "dayPassTip": "Your fare caps automatically at three fifty per day. Just keep tapping. After two rides everything else is free for the rest of the day.",
+      "signatureRoute": {
+        "from": "Union Station",
+        "to": "Hollywood/Highland",
+        "line": "B Line (Red)",
+        "time": "20 min",
+        "fare": "$1.75",
+        "why": "From downtown LA straight to the Walk of Fame and the Hollywood sign viewpoints"
+      },
+      "specialFact": "LA Metro has the cheapest automatic daily fare cap of any major US city. Three fifty per day. In a city famous for traffic the metro is the secret weapon locals use to skip the freeways.",
+      "quirk": "The city that was built around the car now has six metro lines and keeps expanding. The Purple Line extension to UCLA and the airport connector are both under construction.",
+      "originPoint": "LAX Airport — take the LAX-it shuttle to the K Line then transfer to other lines. Direct airport metro station is under construction.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 5,
+        "frequency": 3,
+        "touristFriendly": 3,
+        "coverage": 3,
+        "overall": 3.4
+      }
+    },
+    {
+      "city": "Boston",
+      "country": "United States",
+      "systemName": "MBTA (The T)",
+      "fare": {
+        "single": "$2.40 (CharlieCard)",
+        "dayPass": "$11.00 (1-day LinkPass)",
+        "currency": "USD"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "01:00",
+        "notes": "Four color-coded lines. Green Line is actually a surface tram in some sections."
+      },
+      "frequency": {
+        "peak": "3-8 min",
+        "offPeak": "8-15 min"
+      },
+      "network": {
+        "lengthKm": 101,
+        "lines": 4,
+        "stations": 76
+      },
+      "facilities": [
+        "CharlieCard contactless",
+        "contactless bank card",
+        "historic Tremont Street subway (1897)",
+        "airport connection on Blue Line"
+      ],
+      "cardTip": "Get a CharlieCard at any station or tap your contactless bank card. Two forty per ride.",
+      "dayPassTip": "The one day LinkPass costs eleven dollars and covers subway bus and commuter rail Zone 1A.",
+      "signatureRoute": {
+        "from": "Park Street",
+        "to": "Harvard",
+        "line": "Red Line",
+        "time": "12 min",
+        "fare": "$2.40",
+        "why": "From the Freedom Trail on Boston Common to Harvard University"
+      },
+      "specialFact": "The Tremont Street subway opened in eighteen ninety seven. It is the oldest subway tunnel in North America. You ride through the same tunnel that carried the first underground trains in the Americas.",
+      "quirk": "The Green Line is not really a subway. It is a trolley that goes underground in the city center and pops back up to the surface in the western suburbs. Four branches share one downtown tunnel.",
+      "originPoint": "Logan Airport — take the Blue Line from Airport station to downtown in about ten minutes. Free shuttle bus from the terminals to the station.",
+      "ratings": {
+        "cleanliness": 2,
+        "affordability": 3,
+        "frequency": 3,
+        "touristFriendly": 3,
+        "coverage": 3,
+        "overall": 2.8
+      }
+    },
+    {
+      "city": "Toronto",
+      "country": "Canada",
+      "systemName": "TTC Subway",
+      "fare": {
+        "single": "C$3.35 (~$2.45, PRESTO tap)",
+        "dayPass": "C$13.50 (~$9.90, day pass)",
+        "currency": "CAD"
+      },
+      "hours": {
+        "firstTrain": "05:30 (06:00 Sun)",
+        "lastTrain": "01:30",
+        "notes": "Four lines. PRESTO fare capping coming September 2026."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 77,
+        "lines": 4,
+        "stations": 75
+      },
+      "facilities": [
+        "PRESTO contactless card",
+        "credit card tap",
+        "free wifi",
+        "fare capping from September 2026"
+      ],
+      "cardTip": "Tap your contactless credit card or get a PRESTO card. Three thirty five per ride flat. Free transfers to buses and streetcars within two hours.",
+      "dayPassTip": "The day pass costs about fourteen dollars. Or with PRESTO fare capping coming in September twenty twenty six your fares will automatically cap after forty seven rides per month.",
+      "signatureRoute": {
+        "from": "Union Station",
+        "to": "Bloor-Yonge",
+        "line": "Line 1 (Yonge-University)",
+        "time": "6 min",
+        "fare": "C$3.35",
+        "why": "From the waterfront to the heart of midtown Toronto and the Yonge Street corridor"
+      },
+      "specialFact": "Line 1 carries over a million riders a day making it one of the busiest single subway lines in North America. At rush hour trains run every two minutes thirty seconds.",
+      "quirk": "Toronto subway uses a unique wider loading gauge than most North American systems. The trains are wider which means more standing room.",
+      "originPoint": "Toronto Pearson Airport — take the UP Express train to Union Station in about twenty five minutes. Transfer to any subway line there.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 3,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.4
+      }
+    },
+    {
+      "city": "Montreal",
+      "country": "Canada",
+      "systemName": "Montreal Metro (STM)",
+      "fare": {
+        "single": "C$3.75 (~$2.75, OPUS card)",
+        "dayPass": "C$11.25 (~$8.25, 24h pass)",
+        "currency": "CAD"
+      },
+      "hours": {
+        "firstTrain": "05:30",
+        "lastTrain": "00:30 (01:30 Sat)",
+        "notes": "Four lines. Rubber-tyred trains. Entirely underground."
+      },
+      "frequency": {
+        "peak": "3-4 min",
+        "offPeak": "6-12 min"
+      },
+      "network": {
+        "lengthKm": 69.2,
+        "lines": 4,
+        "stations": 68
+      },
+      "facilities": [
+        "OPUS card",
+        "Chrono app",
+        "rubber-tyred trains",
+        "entirely underground",
+        "art in stations"
+      ],
+      "cardTip": "Buy an OPUS card at any station or use the Chrono app. Three seventy five per ride with free transfers for two hours.",
+      "dayPassTip": "The twenty four hour pass costs about eleven dollars and covers metro and all STM buses including the 747 airport shuttle.",
+      "signatureRoute": {
+        "from": "Berri-UQAM",
+        "to": "Jean-Drapeau",
+        "line": "Yellow Line (Line 4)",
+        "time": "5 min",
+        "fare": "C$3.75",
+        "why": "Under the St. Lawrence river to the island where they held Expo 67 and where the F1 Grand Prix runs"
+      },
+      "specialFact": "Every station was designed by a different architect. The result is that no two stations look alike. It is an underground museum of Quebec architecture from the nineteen sixties to today.",
+      "quirk": "Rubber-tyred trains like the Paris metro. Completely silent compared to steel wheel systems. And the entire network runs underground because of the brutal Montreal winters.",
+      "originPoint": "Montreal Trudeau Airport — take the 747 bus to Lionel-Groulx metro station. About forty five minutes. Your OPUS or twenty four hour pass covers the airport bus.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 3,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 3,
+        "overall": 3.4
+      }
+    },
+    {
+      "city": "Vancouver",
+      "country": "Canada",
+      "systemName": "SkyTrain",
+      "fare": {
+        "single": "C$3.15-$4.50 (~$2.30-$3.30, zone-based, Compass)",
+        "dayPass": "C$11.25 (~$8.25, DayPass)",
+        "currency": "CAD"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "01:15",
+        "notes": "Three lines. Fully driverless automated system. All stations accessible from day one."
+      },
+      "frequency": {
+        "peak": "2-4 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 80,
+        "lines": 3,
+        "stations": 53
+      },
+      "facilities": [
+        "Compass Card",
+        "contactless bank card",
+        "fully driverless",
+        "all stations accessible",
+        "airport connection (Canada Line)"
+      ],
+      "cardTip": "Tap your contactless bank card directly at the gates. Or get a Compass Card at any station. Zone-based fares.",
+      "dayPassTip": "The DayPass costs about eleven dollars and covers SkyTrain bus and SeaBus ferry all day across all zones.",
+      "signatureRoute": {
+        "from": "Waterfront",
+        "to": "YVR Airport",
+        "line": "Canada Line",
+        "time": "26 min",
+        "fare": "C$4.50 (+ $5.00 airport surcharge)",
+        "why": "From downtown Vancouver to the airport running along False Creek with mountain views"
+      },
+      "specialFact": "The entire SkyTrain system has been driverless since it opened in nineteen eighty five for Expo. You can sit in the front car and watch the tracks through the panoramic window.",
+      "quirk": "Every single station has been fully wheelchair accessible since the system opened. No retrofitting needed. It was designed right from the start.",
+      "originPoint": "Vancouver Airport — the Canada Line runs from the airport to downtown Waterfront station in about twenty six minutes. There is a five dollar airport surcharge added to the fare.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 3,
+        "frequency": 5,
+        "touristFriendly": 5,
+        "coverage": 3,
+        "overall": 4.0
+      }
+    },
+    {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "systemName": "Mexico City Metro (STC)",
+      "fare": {
+        "single": "MXN 5 (~$0.25, flat fare)",
+        "dayPass": "No day pass (single fare so cheap it is unnecessary)",
+        "currency": "MXN"
+      },
+      "hours": {
+        "firstTrain": "05:00 (Mon-Fri) / 06:00 (Sat) / 07:00 (Sun)",
+        "lastTrain": "00:00",
+        "notes": "Twelve lines. 195 stations. Busiest metro in Latin America."
+      },
+      "frequency": {
+        "peak": "2-4 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 226,
+        "lines": 12,
+        "stations": 195
+      },
+      "facilities": [
+        "Integrated Mobility Card (MI)",
+        "contactless bank card since 2026",
+        "women-only cars during rush hour",
+        "free wifi at some stations"
+      ],
+      "cardTip": "Buy an MI card at any station for fifteen pesos. Load it with credit. Or tap your contactless bank card at the turnstile since twenty twenty six.",
+      "dayPassTip": "No day pass needed. A single ride costs five pesos which is about twenty five cents. You could ride all day for the price of a coffee.",
+      "signatureRoute": {
+        "from": "Zocalo",
+        "to": "Bellas Artes",
+        "line": "Line 2 (Blue)",
+        "time": "2 min",
+        "fare": "MXN 5",
+        "why": "From the main square to the Palace of Fine Arts in the historic center"
+      },
+      "specialFact": "Five pesos per ride. That is twenty five cents. Twelve lines two hundred twenty six kilometers and nearly two hundred stations. The cheapest major metro system in the world.",
+      "quirk": "Every station has a unique pictographic symbol designed by Lance Wyman in nineteen sixty nine. Originally designed for when literacy rates were low the icons are now beloved cultural symbols.",
+      "originPoint": "Mexico City Airport — Line 5 Yellow connects Terminal 1 to the metro network at Pantitlan. No direct connection to Terminal 2 but shuttle buses run between terminals.",
+      "ratings": {
+        "cleanliness": 2,
+        "affordability": 5,
+        "frequency": 5,
+        "touristFriendly": 2,
+        "coverage": 5,
+        "overall": 3.8
+      }
+    },
+    {
+      "city": "Santiago",
+      "country": "Chile",
+      "systemName": "Metro de Santiago",
+      "fare": {
+        "single": "CLP 800-830 (~$0.85-$0.90, Bip! card, time-based)",
+        "dayPass": "No traditional day pass (integrated fare with buses)",
+        "currency": "CLP"
+      },
+      "hours": {
+        "firstTrain": "05:30 (06:30 weekends)",
+        "lastTrain": "23:00",
+        "notes": "Seven lines. Most modern metro in South America."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 140,
+        "lines": 7,
+        "stations": 136
+      },
+      "facilities": [
+        "Bip! contactless card",
+        "contactless bank card",
+        "integrated with buses",
+        "AC on Line 6",
+        "platform screen doors on Line 6"
+      ],
+      "cardTip": "Get a Bip! card at any station. It is the only way to pay and also works on buses with free transfers within two hours.",
+      "dayPassTip": "No day pass but fares are cheap and include free bus transfers within two hours. A Bip! card is essential.",
+      "signatureRoute": {
+        "from": "Baquedano",
+        "to": "Los Leones",
+        "line": "Line 1",
+        "time": "5 min",
+        "fare": "CLP 830",
+        "why": "From the bohemian Barrio Bellavista through Providencia to the upscale Barrio El Golf"
+      },
+      "specialFact": "Line 6 is fully driverless with platform screen doors and runs entirely underground. It is the most technologically advanced metro line in South America.",
+      "quirk": "Seven lines and a hundred thirty six stations make it the most extensive metro in South America by a wide margin.",
+      "originPoint": "Santiago Airport — no direct metro connection. Take the Centropuerto or TurBus bus to Pajaritos or Los Heroes station then connect to the metro.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 5,
+        "frequency": 5,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 4.4
+      }
+    },
+    {
+      "city": "Sao Paulo",
+      "country": "Brazil",
+      "systemName": "Sao Paulo Metro",
+      "fare": {
+        "single": "R$5.00 (~$0.90)",
+        "dayPass": "No standard day pass",
+        "currency": "BRL"
+      },
+      "hours": {
+        "firstTrain": "04:40",
+        "lastTrain": "00:00",
+        "notes": "Six lines. Busiest metro in South America."
+      },
+      "frequency": {
+        "peak": "2-3 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 101,
+        "lines": 6,
+        "stations": 89
+      },
+      "facilities": [
+        "Bilhete Unico integrated card",
+        "free wifi",
+        "women-only cars during rush hour",
+        "integrated with CPTM commuter rail"
+      ],
+      "cardTip": "Get a Bilhete Unico card at any station. It covers metro buses and CPTM trains with free transfers within three hours.",
+      "dayPassTip": "No day pass but at five reais per ride about ninety cents the Bilhete Unico with integrated transfers keeps costs very low.",
+      "signatureRoute": {
+        "from": "Se",
+        "to": "Paulista",
+        "line": "Line 1 (Blue) to Line 4 (Yellow)",
+        "time": "8 min",
+        "fare": "R$5.00",
+        "why": "From the cathedral and historic center to Avenida Paulista the cultural spine of the city"
+      },
+      "specialFact": "The busiest metro in the Southern Hemisphere. Over four million riders every day pack into six lines and eighty nine stations.",
+      "quirk": "Line 4 Yellow is fully driverless and has platform screen doors. You can sit in the front and watch the tunnel.",
+      "originPoint": "Guarulhos Airport — take the Airport Bus Service to one of the metro stations. No direct rail connection yet but an express link is under construction.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 5,
+        "frequency": 5,
+        "touristFriendly": 2,
+        "coverage": 3,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "systemName": "MetroRio",
+      "fare": {
+        "single": "R$6.90 (~$1.25)",
+        "dayPass": "No day pass",
+        "currency": "BRL"
+      },
+      "hours": {
+        "firstTrain": "05:00",
+        "lastTrain": "00:00",
+        "notes": "Three lines. Line 4 opened for the 2016 Olympics."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "8-12 min"
+      },
+      "network": {
+        "lengthKm": 58,
+        "lines": 3,
+        "stations": 41
+      },
+      "facilities": [
+        "Giro card",
+        "contactless payment",
+        "AC on all trains",
+        "beach connections"
+      ],
+      "cardTip": "Get a Giro card at any station. Or use contactless bank card at the turnstiles.",
+      "dayPassTip": "No day pass available but single rides cost about a dollar twenty five. The metro is the safest way to get between the main tourist areas.",
+      "signatureRoute": {
+        "from": "General Osorio (Ipanema)",
+        "to": "Cinelandia",
+        "line": "Line 1 + Line 4",
+        "time": "20 min",
+        "fare": "R$6.90",
+        "why": "From Ipanema beach to the historic center near the Lapa arches and Selaron Steps"
+      },
+      "specialFact": "Line 4 was built specifically for the twenty sixteen Olympics connecting the beaches of Ipanema to the Olympic venues in Barra da Tijuca.",
+      "quirk": "The metro is the safest form of public transport in Rio. Air conditioned clean and far more secure than buses.",
+      "originPoint": "Galeao Airport — no direct metro connection. Take a bus or taxi to a metro station. The nearest metro is Uruguai on Line 2.",
+      "ratings": {
+        "cleanliness": 3,
+        "affordability": 5,
+        "frequency": 3,
+        "touristFriendly": 3,
+        "coverage": 2,
+        "overall": 3.2
+      }
+    },
+    {
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "systemName": "Buenos Aires Subte",
+      "fare": {
+        "single": "ARS 1,490 (~$0.50, registered SUBE)",
+        "dayPass": "No day pass (tiered monthly pricing)",
+        "currency": "ARS"
+      },
+      "hours": {
+        "firstTrain": "05:30 (Mon-Fri) / 06:00 (Sat) / 08:00 (Sun)",
+        "lastTrain": "22:30-23:00",
+        "notes": "Six lines plus Premetro. First metro in Latin America opened 1913. SUBE card mandatory."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "8-10 min"
+      },
+      "network": {
+        "lengthKm": 56.7,
+        "lines": 6,
+        "stations": 90
+      },
+      "facilities": [
+        "SUBE card only",
+        "free wifi at stations",
+        "heritage Line A with original 1913 architecture",
+        "tiered monthly pricing"
+      ],
+      "cardTip": "Get a SUBE card at a kiosk or gas station on day one. Register it to get the cheaper fare. It is mandatory for metro and buses.",
+      "dayPassTip": "No day pass but register your SUBE card for a thirty seven percent discount per ride. After twenty rides a month the price drops further.",
+      "signatureRoute": {
+        "from": "Plaza de Mayo",
+        "to": "Primera Junta",
+        "line": "Line A",
+        "time": "15 min",
+        "fare": "ARS 1,490",
+        "why": "Ride the first metro line in Latin America from the Casa Rosada through the original 1913 stations"
+      },
+      "specialFact": "Opened in nineteen thirteen. The first metro in Latin America and the entire Southern Hemisphere. Line A still has some of the original station architecture from over a hundred years ago.",
+      "quirk": "The fare is about fifty cents with a registered SUBE card. But the Subte closes shockingly early. By ten thirty at night it is already shutting down.",
+      "originPoint": "Ezeiza Airport — no Subte connection. Take a bus or taxi to the city.",
+      "ratings": {
+        "cleanliness": 2,
+        "affordability": 5,
+        "frequency": 3,
+        "touristFriendly": 3,
+        "coverage": 3,
+        "overall": 3.2
+      }
+    },
+    {
+      "city": "Medellin",
+      "country": "Colombia",
+      "systemName": "Medellin Metro",
+      "fare": {
+        "single": "COP 3,050 (~$0.70)",
+        "dayPass": "No standard day pass",
+        "currency": "COP"
+      },
+      "hours": {
+        "firstTrain": "04:30",
+        "lastTrain": "23:00",
+        "notes": "Two metro lines plus Metrocable gondola lines. Civica card required."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "6-10 min"
+      },
+      "network": {
+        "lengthKm": 31.3,
+        "lines": 2,
+        "stations": 27
+      },
+      "facilities": [
+        "Civica contactless card",
+        "Metrocable gondola integration",
+        "elevated railway",
+        "valley views"
+      ],
+      "cardTip": "Get a Civica card at any station. Load it with credit. It works on metro Metrocable buses and the tram.",
+      "dayPassTip": "No day pass but rides cost about seventy cents each. The Civica card includes free transfers between metro Metrocable and buses.",
+      "signatureRoute": {
+        "from": "San Antonio",
+        "to": "Santo Domingo (via Metrocable)",
+        "line": "Line A + Metrocable K",
+        "time": "25 min",
+        "fare": "COP 3,050 (integrated fare)",
+        "why": "From the city center up the mountain by gondola to the famous hillside neighborhoods with panoramic valley views"
+      },
+      "specialFact": "The Metrocable gondola lines are integrated with the metro fare. For seventy cents you can ride a cable car up the mountain and see the entire valley of Medellin spread out below you.",
+      "quirk": "Medellin's metro is the only one in Colombia. The city built cable cars as metro extensions to connect hillside neighborhoods that no road could reach.",
+      "originPoint": "Jose Maria Cordova Airport — no direct metro connection. Take a bus or taxi from the airport to the nearest metro station. About forty five minutes from the city.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 5,
+        "frequency": 4,
+        "touristFriendly": 3,
+        "coverage": 2,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Bangkok",
+      "country": "Thailand",
+      "systemName": "Bangkok BTS + MRT",
+      "fare": {
+        "single": "THB 17-59 BTS / THB 17-42 MRT (~$0.50-$1.70)",
+        "dayPass": "THB 150 (~$4.30, BTS 1-day pass)",
+        "currency": "THB"
+      },
+      "hours": {
+        "firstTrain": "05:15 (BTS) / 06:00 (MRT)",
+        "lastTrain": "00:00",
+        "notes": "BTS (elevated) and MRT (underground) are separate systems with separate tickets."
+      },
+      "frequency": {
+        "peak": "3-5 min",
+        "offPeak": "5-8 min"
+      },
+      "network": {
+        "lengthKm": 170,
+        "lines": 7,
+        "stations": 120
+      },
+      "facilities": [
+        "Rabbit Card (BTS)",
+        "MRT stored-value card",
+        "contactless Visa on MRT",
+        "AC",
+        "airport connection via Airport Rail Link"
+      ],
+      "cardTip": "You need separate cards for BTS and MRT. Rabbit Card for BTS and a separate card for MRT. Contactless Visa works on MRT.",
+      "dayPassTip": "The BTS one day pass costs a hundred fifty baht about four dollars and gives unlimited BTS rides. No equivalent exists for MRT.",
+      "signatureRoute": {
+        "from": "Siam (BTS)",
+        "to": "Chatuchak Weekend Market (MRT)",
+        "line": "BTS Sukhumvit to Mo Chit then walk to MRT Chatuchak Park",
+        "time": "15 min",
+        "fare": "~THB 44 BTS + THB 28 MRT",
+        "why": "From the shopping center of Bangkok to the world's largest weekend market"
+      },
+      "specialFact": "Bangkok has two completely separate metro systems that do not share tickets or cards. The BTS is elevated above the traffic and the MRT is underground.",
+      "quirk": "The BTS elevated railway gives you an air conditioned view of Bangkok's chaotic streets from above. You can watch the traffic gridlock below while you cruise past.",
+      "originPoint": "Suvarnabhumi Airport — take the Airport Rail Link to Phaya Thai BTS station. About thirty minutes. From Don Mueang take the A1 bus to Mo Chit BTS/MRT.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 4,
+        "frequency": 4,
+        "touristFriendly": 3,
+        "coverage": 3,
+        "overall": 3.6
+      }
+    },
+    {
+      "city": "Kuala Lumpur",
+      "country": "Malaysia",
+      "systemName": "Rapid KL (MRT + LRT + Monorail)",
+      "fare": {
+        "single": "RM 1.20-6.20 (~$0.25-$1.30, distance-based)",
+        "dayPass": "~RM 15 (~$3.20, KL TravelPass)",
+        "currency": "MYR"
+      },
+      "hours": {
+        "firstTrain": "06:00",
+        "lastTrain": "00:00",
+        "notes": "Two MRT lines plus LRT and Monorail. Touch n Go card works on everything."
+      },
+      "frequency": {
+        "peak": "4-6 min",
+        "offPeak": "7-10 min"
+      },
+      "network": {
+        "lengthKm": 200,
+        "lines": 7,
+        "stations": 150
+      },
+      "facilities": [
+        "Touch n Go card",
+        "integrated rail network",
+        "Petronas Towers station (KLCC)",
+        "AC on all trains"
+      ],
+      "cardTip": "Get a Touch n Go card for ten ringgit. It works on MRT LRT Monorail buses and even toll roads.",
+      "dayPassTip": "The KL TravelPass gives unlimited rail rides for a day at about three dollars. Covers MRT LRT Monorail and airport transfer.",
+      "signatureRoute": {
+        "from": "Bukit Bintang (MRT)",
+        "to": "KLCC (MRT Putrajaya Line)",
+        "line": "MRT Putrajaya Line",
+        "time": "5 min",
+        "fare": "~RM 1.60",
+        "why": "From the shopping strip to the Petronas Twin Towers in five minutes"
+      },
+      "specialFact": "The combined rail network covers over two hundred kilometers making it one of the most extensive urban rail systems in Southeast Asia. And a ride across the city costs barely more than a dollar.",
+      "quirk": "KL has three different types of metro running on different systems. MRT LRT and Monorail all connect but were built by different companies at different times.",
+      "originPoint": "KLIA Airport — take the KLIA Ekspres to KL Sentral in about thirty minutes. Transfer to MRT LRT or Monorail there.",
+      "ratings": {
+        "cleanliness": 4,
+        "affordability": 5,
+        "frequency": 4,
+        "touristFriendly": 4,
+        "coverage": 4,
+        "overall": 4.2
+      }
+    },
+    {
+      "city": "Sydney",
+      "country": "Australia",
+      "systemName": "Sydney Metro",
+      "fare": {
+        "single": "A$2.24-4.80 (~$1.45-$3.10, Opal card, distance-based)",
+        "dayPass": "A$17.80 daily cap (~$11.50, automatic)",
+        "currency": "AUD"
+      },
+      "hours": {
+        "firstTrain": "04:00",
+        "lastTrain": "01:00",
+        "notes": "Driverless metro. Opal card or contactless bank card. Daily and weekly fare caps."
+      },
+      "frequency": {
+        "peak": "4 min",
+        "offPeak": "7-10 min"
+      },
+      "network": {
+        "lengthKm": 66,
+        "lines": 2,
+        "stations": 31
+      },
+      "facilities": [
+        "Opal card",
+        "contactless bank card",
+        "fully driverless",
+        "platform screen doors",
+        "AC"
+      ],
+      "cardTip": "Tap your contactless bank card or get an Opal card. Same fares either way. Daily spending caps automatically.",
+      "dayPassTip": "Your Opal or bank card caps at about eighteen dollars per day. After that you ride free. On Sundays the cap drops to about three dollars.",
+      "signatureRoute": {
+        "from": "Central",
+        "to": "Barangaroo",
+        "line": "Metro City Line",
+        "time": "8 min",
+        "fare": "~A$3.50",
+        "why": "From the main train station through the CBD to the harbourside Barangaroo precinct"
+      },
+      "specialFact": "Sydney Metro is the newest driverless metro in Australia. The City Line opened in twenty twenty four and runs under Sydney Harbour.",
+      "quirk": "Sunday Opal cap is just two eighty. For less than three dollars you can ride any train bus ferry or light rail in Sydney all day on a Sunday.",
+      "originPoint": "Sydney Airport — take the Airport Link train to Central or Town Hall. About fifteen minutes but there is an airport station surcharge of about fifteen dollars.",
+      "ratings": {
+        "cleanliness": 5,
+        "affordability": 3,
+        "frequency": 4,
+        "touristFriendly": 5,
+        "coverage": 3,
+        "overall": 4.0
+      }
+    }
+  ]
+}

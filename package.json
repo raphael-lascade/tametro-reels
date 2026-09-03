@@ -1,0 +1,36 @@
+{
+  "name": "tametro-reels",
+  "version": "1.0.0",
+  "description": "TMETRO — City Metro in 30 Seconds — Instagram Reels pipeline using Remotion + TravelAnimator",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raphael-lascade/tametro-reels"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@remotion/captions": "^4.0.429",
+    "@remotion/cli": "4.0.429",
+    "@remotion/google-fonts": "^4.0.429",
+    "@remotion/install-whisper-cpp": "^4.0.429",
+    "@remotion/media": "^4.0.429",
+    "@remotion/zod-types": "^4.0.429",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.429",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "tsx": "^4.19.2",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "render": "remotion render MetroOverview",
+    "generate-audio": "npx tsx scripts/generate-audio.mts",
+    "render-all": "npx tsx scripts/render-all.mts"
+  }
+}

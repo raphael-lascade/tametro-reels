@@ -1,0 +1,1007 @@
+[
+  {
+    "city": "Tokyo",
+    "routes": [
+      {
+        "from": "Narita Airport (Terminal 1)",
+        "to": "Ueno Station (Ameyoko/Museums)",
+        "line": "Keisei Skyliner",
+        "time": "36 min",
+        "fare": "2470 JPY / ~$16 USD",
+        "hookAngle": "Tokyo airport to city center in 36 minutes for $16",
+        "storyPotential": "You land at Narita expecting an expensive taxi ride, but the Skyliner rockets you through the suburbs at 160km/h. You surface at Ueno and the first thing you see is a thousand-year-old temple across the street.",
+        "strength": "strong"
+      },
+      {
+        "from": "Haneda Airport Terminal 3 (International)",
+        "to": "Shinagawa Station (City Center)",
+        "line": "Keikyu Airport Line",
+        "time": "11 min",
+        "fare": "300 JPY / ~$2 USD",
+        "hookAngle": "Tokyo airport to city center in 11 minutes for $2",
+        "storyPotential": "Eleven minutes and two dollars. That is all it takes to get from the plane to central Tokyo. The Keikyu line shoots you from the terminal to Shinagawa where you can connect to everywhere. The cheapest airport transfer of any major city on earth.",
+        "strength": "strong"
+      },
+      {
+        "from": "Shibuya Station (Scramble Crossing)",
+        "to": "Asakusa Station (Senso-ji Temple)",
+        "line": "Ginza Line (Tokyo Metro)",
+        "time": "30 min",
+        "fare": "280 JPY / ~$1.80 USD",
+        "hookAngle": "Shibuya to Senso-ji Temple for under $2 on the oldest metro line in Asia",
+        "storyPotential": "You start at the world's busiest intersection surrounded by neon screens, board the Ginza Line — the first subway ever built in Asia — and 30 minutes later you step out next to a 1400-year-old Buddhist temple. Two dollars. Modern Tokyo to ancient Tokyo in one straight line.",
+        "strength": "strong"
+      },
+      {
+        "from": "Shinjuku Station (West Side)",
+        "to": "Tsukiji Station (Tsukiji Outer Market)",
+        "line": "Marunouchi Line + Hibiya Line",
+        "time": "25 min",
+        "fare": "210 JPY / ~$1.40 USD",
+        "hookAngle": "World's busiest station to the world's best sushi market for $1.40",
+        "storyPotential": "Shinjuku pushes 3.6 million people through its gates daily. You ride through the city center, transfer once, and surface at Tsukiji where the freshest seafood in the world costs less than your train ticket.",
+        "strength": "strong"
+      },
+      {
+        "from": "Shibuya Station",
+        "to": "Akihabara Station (Electric Town)",
+        "line": "Ginza Line + Hibiya Line",
+        "time": "25 min",
+        "fare": "210 JPY / ~$1.40 USD",
+        "hookAngle": "Fashion capital to anime capital for $1.40",
+        "storyPotential": "You go from Harajuku fashion culture to six floors of anime figurines and retro game arcades. Two completely different worlds connected by 25 minutes of metro. Akihabara hits you like a wall of neon and noise the moment you exit.",
+        "strength": "strong"
+      },
+      {
+        "from": "Roppongi Station (Nightlife District)",
+        "to": "Ueno Station (Museums/Parks)",
+        "line": "Hibiya Line (Tokyo Metro)",
+        "time": "22 min",
+        "fare": "210 JPY / ~$1.40 USD",
+        "hookAngle": "Tokyo's party district to its museum district for $1.40 on one line",
+        "storyPotential": "The Hibiya Line runs direct from Roppongi to Ueno with no transfers. You leave the rooftop bars behind and arrive at Japan's biggest museum cluster — the Tokyo National Museum alone holds eighty thousand pieces. One straight silver line through the center of Tokyo.",
+        "strength": "medium"
+      },
+      {
+        "from": "Oshiage Station (Tokyo Skytree)",
+        "to": "Ginza Station (Luxury Shopping)",
+        "line": "Hanzomon Line (Tokyo Metro)",
+        "time": "15 min",
+        "fare": "210 JPY / ~$1.40 USD",
+        "hookAngle": "Tokyo Skytree to Ginza luxury shopping in 15 minutes for $1.40",
+        "storyPotential": "You start at the foot of the tallest tower in Japan, descend into the purple Hanzomon Line, and surface in Japan's most expensive shopping district. Fifteen minutes separates working-class Sumida from billion-dollar Ginza.",
+        "strength": "medium"
+      },
+      {
+        "from": "Tokyo Station (Marunouchi Side)",
+        "to": "Ikebukuro Station (Entertainment District)",
+        "line": "Marunouchi Line (Tokyo Metro)",
+        "time": "18 min",
+        "fare": "210 JPY / ~$1.40 USD",
+        "hookAngle": "Imperial Palace to Japan's biggest entertainment complex for $1.40",
+        "storyPotential": "The red Marunouchi Line starts next to the Imperial Palace and runs straight through the heart of Tokyo. You pass under Ginza, cross the government quarter, and arrive at Ikebukuro where Sunshine City has an aquarium, a planetarium, and a theme park all inside one building.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "London",
+    "routes": [
+      {
+        "from": "Heathrow Airport (Terminals 2/3)",
+        "to": "Piccadilly Circus (West End)",
+        "line": "Piccadilly Line",
+        "time": "50 min",
+        "fare": "5.60 GBP / ~$7 USD (Oyster off-peak)",
+        "hookAngle": "Heathrow to the West End for $7 on the Tube — skip the $30 Heathrow Express",
+        "storyPotential": "Everyone tells you to take the Heathrow Express for thirty dollars. The Piccadilly Line does the same trip for seven. You ride the world's oldest underground railway, the train surfaces near Hounslow, dips back underground, and fifty minutes later you step out under the neon of Piccadilly Circus.",
+        "strength": "strong"
+      },
+      {
+        "from": "Westminster Station (Big Ben/Parliament)",
+        "to": "Tower Hill Station (Tower of London)",
+        "line": "Circle/District Line",
+        "time": "12 min",
+        "fare": "2.80 GBP / ~$3.50 USD (Oyster)",
+        "hookAngle": "Big Ben to the Tower of London in 12 minutes for $3.50",
+        "storyPotential": "You start under the shadow of Big Ben, board the District Line heading east, and twelve minutes later you are standing in front of a fortress that has been guarding London for nearly a thousand years. Nine hundred years of history connected by twelve minutes of tube.",
+        "strength": "strong"
+      },
+      {
+        "from": "King's Cross St Pancras (Harry Potter/Eurostar)",
+        "to": "Baker Street Station (Sherlock Holmes)",
+        "line": "Metropolitan Line",
+        "time": "5 min",
+        "fare": "2.80 GBP / ~$3.50 USD (Oyster)",
+        "hookAngle": "Harry Potter's Platform 9 3/4 to Sherlock Holmes' address in 5 minutes",
+        "storyPotential": "King's Cross has Platform 9 3/4. Baker Street has 221B. Five minutes on the Metropolitan Line — the world's first underground railway, opened 1863 — connects two of fiction's most famous addresses. The Baker Street platform still has original Victorian tiles.",
+        "strength": "strong"
+      },
+      {
+        "from": "South Kensington Station (Museums)",
+        "to": "Covent Garden Station (Theatre District)",
+        "line": "Piccadilly Line",
+        "time": "10 min",
+        "fare": "2.80 GBP / ~$3.50 USD (Oyster)",
+        "hookAngle": "Three world-class free museums to the theatre district in 10 minutes for $3.50",
+        "storyPotential": "South Kensington gives you the Natural History Museum, the V&A, and the Science Museum — all free. Ten minutes later you surface at Covent Garden surrounded by street performers and the Royal Opera House. The entire cultural heart of London in one short ride.",
+        "strength": "strong"
+      },
+      {
+        "from": "Waterloo Station (South Bank)",
+        "to": "Canary Wharf (Docklands)",
+        "line": "Jubilee Line",
+        "time": "15 min",
+        "fare": "2.80 GBP / ~$3.50 USD (Oyster)",
+        "hookAngle": "London Eye to the futuristic Canary Wharf in 15 minutes",
+        "storyPotential": "The Jubilee Line from Waterloo to Canary Wharf takes you from the Victorian South Bank to London's space-age financial district. The station at Canary Wharf is a cathedral of steel and glass designed by Norman Foster. You go from old London to new London in fifteen minutes.",
+        "strength": "medium"
+      },
+      {
+        "from": "Notting Hill Gate Station",
+        "to": "Oxford Circus Station (Shopping)",
+        "line": "Central Line",
+        "time": "8 min",
+        "fare": "2.80 GBP / ~$3.50 USD (Oyster)",
+        "hookAngle": "Portobello Road market to Oxford Street shopping in 8 minutes",
+        "storyPotential": "Saturday morning at Portobello Road market browsing antiques and vintage clothes. Eight minutes later on the Central Line you are on the busiest shopping street in Europe. Half a million people walk Oxford Street every day.",
+        "strength": "medium"
+      },
+      {
+        "from": "Bank Station (Financial District)",
+        "to": "Greenwich (Cutty Sark DLR)",
+        "line": "DLR (Docklands Light Railway)",
+        "time": "20 min",
+        "fare": "2.80 GBP / ~$3.50 USD (Oyster)",
+        "hookAngle": "City of London to the Prime Meridian for $3.50 — stand on the line where time begins",
+        "storyPotential": "The driverless DLR climbs above the Thames, weaves through the glass towers of Canary Wharf, then drops you in Greenwich. You walk uphill to the Royal Observatory and stand on the line where east meets west. Longitude zero. The place where time zones begin.",
+        "strength": "strong"
+      },
+      {
+        "from": "Paddington Station",
+        "to": "Liverpool Street Station",
+        "line": "Elizabeth Line",
+        "time": "12 min",
+        "fare": "2.80 GBP / ~$3.50 USD (Oyster)",
+        "hookAngle": "London's newest railway crosses the entire city center in 12 minutes",
+        "storyPotential": "The Elizabeth Line opened in 2022 and transformed London. It crosses the entire city center underground at speed — Paddington to Liverpool Street in twelve minutes. The stations look like they belong in a science fiction film. Eighteen billion pounds of engineering under your feet.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "New York",
+    "routes": [
+      {
+        "from": "JFK Airport (via AirTrain + Subway)",
+        "to": "Times Square-42nd Street",
+        "line": "AirTrain + E Train",
+        "time": "60 min",
+        "fare": "$10.75 USD (AirTrain $8.50 + Subway $2.90)",
+        "hookAngle": "JFK to Times Square for under $11 — skip the $70 taxi",
+        "storyPotential": "Everyone takes a seventy dollar cab from JFK. The AirTrain plus subway does it for eleven. You ride the elevated AirTrain to Jamaica Station, descend into the subway, and the E train runs express through Queens straight into the heart of Manhattan. One hour, eleven dollars.",
+        "strength": "strong"
+      },
+      {
+        "from": "Brooklyn Bridge-City Hall Station",
+        "to": "Wall Street Station",
+        "line": "4/5 Express",
+        "time": "3 min",
+        "fare": "$2.90 USD",
+        "hookAngle": "Walk the Brooklyn Bridge then ride to Wall Street for $2.90",
+        "storyPotential": "You walk the Brooklyn Bridge — one of the most iconic walks on earth — and when you reach the Manhattan side you descend into the subway. Three minutes on the express and you surface at Wall Street. The entire financial capital of the world is right above you.",
+        "strength": "strong"
+      },
+      {
+        "from": "Grand Central-42nd Street",
+        "to": "Fulton Street (World Trade Center area)",
+        "line": "4/5 Express",
+        "time": "10 min",
+        "fare": "$2.90 USD",
+        "hookAngle": "Grand Central to the 9/11 Memorial for $2.90 in 10 minutes",
+        "storyPotential": "You start inside Grand Central Terminal — the ceiling painted with constellations, the marble floor worn smooth by a hundred years of footsteps. Ten minutes downtown and you surface at the World Trade Center. The memorial pools are right there. Two of New York's most powerful places connected by one express train.",
+        "strength": "strong"
+      },
+      {
+        "from": "34th Street-Penn Station",
+        "to": "81st Street-Museum of Natural History",
+        "line": "C Train",
+        "time": "15 min",
+        "fare": "$2.90 USD",
+        "hookAngle": "Midtown to the dinosaurs for $2.90",
+        "storyPotential": "The C train runs up the west side of Manhattan. You board at Penn Station in the middle of the rush and fifteen minutes later you walk into the museum lobby where a titanosaur skeleton stretches the full length of the entrance hall. Night at the Museum was filmed right here.",
+        "strength": "medium"
+      },
+      {
+        "from": "14th Street-Union Square",
+        "to": "Coney Island-Stillwell Avenue",
+        "line": "Q Train",
+        "time": "55 min",
+        "fare": "$2.90 USD",
+        "hookAngle": "Manhattan to the beach for $2.90 — the longest scenic subway ride in NYC",
+        "storyPotential": "The Q train is the secret beach express. You board in Union Square, cross the Manhattan Bridge with the skyline filling your window, dive through Brooklyn, and surface at Coney Island where the Atlantic Ocean is right there. The roller coaster, the boardwalk, the hot dogs. All for the price of a single subway ride.",
+        "strength": "strong"
+      },
+      {
+        "from": "Times Square-42nd Street",
+        "to": "Flushing-Main Street (Chinatown #2)",
+        "line": "7 Train",
+        "time": "35 min",
+        "fare": "$2.90 USD",
+        "hookAngle": "$2.90 gets you from Times Square to the best Chinese food in America",
+        "storyPotential": "The 7 train is called the International Express. It runs elevated through Queens passing through neighborhoods from every continent. You end up in Flushing where the dim sum is better than Manhattan's and a full meal costs eight dollars. The most diverse subway ride in the world.",
+        "strength": "strong"
+      },
+      {
+        "from": "Fulton Street",
+        "to": "South Ferry (Staten Island Ferry)",
+        "line": "2/3 Train",
+        "time": "5 min",
+        "fare": "$2.90 USD (ferry is free)",
+        "hookAngle": "See the Statue of Liberty for free — subway + Staten Island Ferry",
+        "storyPotential": "The Staten Island Ferry passes right by the Statue of Liberty and it is completely free. Take the 2 train to South Ferry, walk onto the boat, and twenty-five minutes later you have the best view of Lady Liberty and the Manhattan skyline. Total cost: one subway ride.",
+        "strength": "strong"
+      },
+      {
+        "from": "59th Street-Columbus Circle",
+        "to": "125th Street (Harlem)",
+        "line": "A Express",
+        "time": "10 min",
+        "fare": "$2.90 USD",
+        "hookAngle": "Central Park to Harlem in 10 minutes for $2.90",
+        "storyPotential": "The A Express blasts uptown from Columbus Circle at the southwest corner of Central Park. Ten minutes later you surface in Harlem. The Apollo Theater is three blocks away. Sylvia's soul food is around the corner. An entirely different New York from the tourist Manhattan.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "Paris",
+    "routes": [
+      {
+        "from": "CDG Airport (Charles de Gaulle)",
+        "to": "Gare du Nord (City Center)",
+        "line": "RER B",
+        "time": "25 min",
+        "fare": "14 EUR / ~$15 USD",
+        "hookAngle": "Paris airport to city center in 25 minutes for $15",
+        "storyPotential": "The RER B runs direct from the airport terminal to the heart of Paris. Twenty-five minutes and you are at Gare du Nord. From there the entire metro network opens up. Skip the sixty euro taxi. Keep your bags in front of you — the RER B is where pickpockets work the hardest.",
+        "strength": "strong"
+      },
+      {
+        "from": "Trocadero Station (Eiffel Tower View)",
+        "to": "Anvers Station (Sacre-Coeur/Montmartre)",
+        "line": "Line 2",
+        "time": "18 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "Eiffel Tower to Sacre-Coeur for $2.80 — and Line 2 runs above ground with views",
+        "storyPotential": "Line 2 is the secret scenic ride. It runs elevated above the rooftops of northern Paris. You start at Trocadero with the best view of the Eiffel Tower, ride above the streets watching Paris pass beneath you, and step out at Anvers where Sacre-Coeur glows white at the top of the hill. Most of this ride is above ground.",
+        "strength": "strong"
+      },
+      {
+        "from": "Louvre-Rivoli Station (The Louvre)",
+        "to": "Bastille Station (Nightlife/Marais)",
+        "line": "Line 1",
+        "time": "8 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "The Mona Lisa to the best nightlife in Paris in 8 minutes for $2.80",
+        "storyPotential": "Line 1 is the spine of tourist Paris. You exit the Louvre, descend into the metro, and eight minutes later you are in the Marais — the oldest neighborhood in Paris. The bars around Bastille stay open until 2am. Eight hundred years of art to eight hundred years of drinking.",
+        "strength": "strong"
+      },
+      {
+        "from": "Cite Station (Notre-Dame/Ile de la Cite)",
+        "to": "Saint-Germain-des-Pres Station (Latin Quarter)",
+        "line": "Line 4",
+        "time": "4 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "Notre-Dame to the intellectual heart of Paris in 4 minutes for $2.80",
+        "storyPotential": "Cite station sits on the island in the middle of the Seine right next to Notre-Dame. Four minutes on Line 4 and you surface in Saint-Germain-des-Pres where Hemingway and Sartre wrote in the same cafes that are still open today. The shortest ride between two of the most historic neighborhoods in Europe.",
+        "strength": "strong"
+      },
+      {
+        "from": "Bir-Hakeim Station (Eiffel Tower)",
+        "to": "Montparnasse-Bienvenue Station",
+        "line": "Line 6",
+        "time": "8 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "The metro line that crosses the Seine with the Eiffel Tower in your window",
+        "storyPotential": "Line 6 runs above ground over the Pont de Bir-Hakeim bridge. For about fifteen seconds the Eiffel Tower fills your entire window as the train crosses the Seine. It is the most photographed metro moment in Paris. Then you dive back underground and arrive at Montparnasse.",
+        "strength": "strong"
+      },
+      {
+        "from": "Abbesses Station (Montmartre)",
+        "to": "Concorde Station (Place de la Concorde/Champs-Elysees)",
+        "line": "Line 12",
+        "time": "12 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "The deepest metro station in Paris to the Champs-Elysees for $2.80",
+        "storyPotential": "Abbesses is the deepest station in Paris — 36 meters underground. Take the spiral staircase instead of the elevator and admire the murals on the way down. The art nouveau entrance above ground is one of the most photographed in Paris. Twelve minutes later you are at Concorde where the Champs-Elysees begins.",
+        "strength": "medium"
+      },
+      {
+        "from": "Orly Airport",
+        "to": "Chatelet (City Center)",
+        "line": "Metro Line 14",
+        "time": "25 min",
+        "fare": "14 EUR / ~$15 USD",
+        "hookAngle": "Orly Airport to central Paris in 25 minutes on the newest driverless metro",
+        "storyPotential": "Line 14 is the newest line in Paris — fully automated, no driver. Since the extension opened to Orly, it is the fastest way into the city center. Twenty-five minutes to Chatelet. The trains are wider, quieter, and run every few minutes. This is the future of the Paris metro.",
+        "strength": "medium"
+      },
+      {
+        "from": "Champs-Elysees Clemenceau (Arc de Triomphe area)",
+        "to": "Pere Lachaise (Cemetery)",
+        "line": "Line 1 + Line 2",
+        "time": "20 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "The most famous avenue in the world to the most famous cemetery in the world for $2.80",
+        "storyPotential": "You start on the Champs-Elysees and ride east to Pere Lachaise. Jim Morrison, Oscar Wilde, Edith Piaf, Chopin — they are all buried here. The cemetery is like a miniature city with cobblestone paths and hundred-year-old trees. Twenty minutes from luxury shopping to eternal rest.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "Seoul",
+    "routes": [
+      {
+        "from": "Incheon Airport Terminal 1",
+        "to": "Seoul Station (City Center)",
+        "line": "AREX Express",
+        "time": "43 min",
+        "fare": "13000 KRW / ~$9.50 USD",
+        "hookAngle": "Incheon Airport to Seoul in 43 minutes for under $10",
+        "storyPotential": "The AREX Express runs nonstop from Incheon Airport to Seoul Station. Forty-three minutes, no stops, wide seats, luggage racks. You can even check in for your return flight at Seoul Station days in advance. Ten dollars and you are in the center of a city of ten million.",
+        "strength": "strong"
+      },
+      {
+        "from": "Gyeongbokgung Station (Royal Palace)",
+        "to": "Gangnam Station (Modern Seoul)",
+        "line": "Line 3 + Line 2",
+        "time": "30 min",
+        "fare": "1550 KRW / ~$1.10 USD",
+        "hookAngle": "Ancient royal palace to Gangnam Style for $1.10",
+        "storyPotential": "Gyeongbokgung Palace is 600 years old. Gangnam is where PSY wrote that song. Thirty minutes and a dollar ten on the metro connects the Joseon dynasty to K-pop billboards and plastic surgery clinics. Old Seoul to new Seoul for less than the price of a coffee.",
+        "strength": "strong"
+      },
+      {
+        "from": "Myeongdong Station (Shopping/Street Food)",
+        "to": "Hongik University Station (Hongdae Nightlife)",
+        "line": "Line 4 + Line 2",
+        "time": "20 min",
+        "fare": "1550 KRW / ~$1.10 USD",
+        "hookAngle": "Best street food in Korea to the best nightlife in Korea for $1.10",
+        "storyPotential": "Myeongdong is wall-to-wall Korean street food and K-beauty shops. Transfer at a hub station and twenty minutes later you are in Hongdae where every alley has live music, vintage shops, and clubs that do not close until sunrise. A dollar and ten cents covers both worlds.",
+        "strength": "strong"
+      },
+      {
+        "from": "Jamsil Station (Lotte World)",
+        "to": "Itaewon Station (International District)",
+        "line": "Line 2 + Line 6",
+        "time": "30 min",
+        "fare": "1550 KRW / ~$1.10 USD",
+        "hookAngle": "Theme park to the international food district for $1.10",
+        "storyPotential": "Lotte World is the world's largest indoor theme park. Ride the roller coaster, then take the metro to Itaewon where every cuisine on earth has a restaurant. Korean BBQ, Egyptian food, craft beer bars — all in one neighborhood. Thirty minutes between two completely different worlds.",
+        "strength": "medium"
+      },
+      {
+        "from": "Anguk Station (Bukchon Hanok Village)",
+        "to": "Dongdaemun History & Culture Park Station",
+        "line": "Line 3 + Line 2/4/5",
+        "time": "12 min",
+        "fare": "1550 KRW / ~$1.10 USD",
+        "hookAngle": "Traditional Korean houses to the Zaha Hadid-designed fashion hub in 12 minutes",
+        "storyPotential": "Bukchon Hanok Village is a neighborhood of 600-year-old traditional Korean houses. Twelve minutes on the metro and you surface at Dongdaemun Design Plaza — a building designed by Zaha Hadid that looks like it landed from space. Six centuries of Korean design in two stops.",
+        "strength": "medium"
+      },
+      {
+        "from": "Seoul Station",
+        "to": "Noryangjin Station (Fish Market)",
+        "line": "Line 1",
+        "time": "5 min",
+        "fare": "1550 KRW / ~$1.10 USD",
+        "hookAngle": "Seoul's biggest fish market is one stop from the city center for $1.10",
+        "storyPotential": "One stop from Seoul Station on Line 1. Noryangjin Fish Market is open twenty-four hours. You pick a live fish, they slice it in front of you, and you eat it on the spot. Fresh sashimi at 3am for five dollars. The most authentic food experience in Seoul is literally one metro stop away.",
+        "strength": "strong"
+      },
+      {
+        "from": "Euljiro 3-ga Station",
+        "to": "Sindorim Station (for Technomart)",
+        "line": "Line 2",
+        "time": "18 min",
+        "fare": "1550 KRW / ~$1.10 USD",
+        "hookAngle": "The green circle line loops through all of Seoul for $1.10",
+        "storyPotential": "Line 2 is the circular green line that loops through every major district of Seoul. You can ride the entire circle in about an hour and see the city from underground. Locals call it the lifeline of Seoul — it connects universities, shopping districts, the tech hub, and the riverside parks.",
+        "strength": "medium"
+      },
+      {
+        "from": "Gwanghwamun Station (City Hall/Palaces)",
+        "to": "Yeouido Station (Financial District/Han River)",
+        "line": "Line 5",
+        "time": "15 min",
+        "fare": "1550 KRW / ~$1.10 USD",
+        "hookAngle": "Government center to the Han River park for $1.10",
+        "storyPotential": "Gwanghwamun is where Seoul's giant plazas and government buildings sit. Fifteen minutes on Line 5 and you are at Yeouido where the Han River parks stretch for kilometers. Rent a bike, order fried chicken to your blanket on the grass, watch the city skyline at sunset. This is how locals spend their evenings.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "Singapore",
+    "routes": [
+      {
+        "from": "Changi Airport Station (CG2)",
+        "to": "City Hall Station (Colonial District)",
+        "line": "East-West Line (Green)",
+        "time": "30 min",
+        "fare": "2.20 SGD / ~$1.65 USD",
+        "hookAngle": "Changi Airport to the city center for $1.65 — cheapest airport transfer in the world",
+        "storyPotential": "Changi Airport was voted the best airport in the world six years in a row. The MRT runs direct from the terminal to City Hall in thirty minutes. A dollar sixty-five. That might be the cheapest airport-to-city transfer on earth. You surface next to the National Gallery and the Padang cricket ground.",
+        "strength": "strong"
+      },
+      {
+        "from": "Chinatown Station (DT19)",
+        "to": "Marina Bay Station (CE2)",
+        "line": "Downtown Line (Blue)",
+        "time": "6 min",
+        "fare": "1.09 SGD / ~$0.80 USD",
+        "hookAngle": "Chinatown to Marina Bay Sands for 80 cents",
+        "storyPotential": "Under a dollar gets you from the hawker stalls of Chinatown to the most iconic building in Singapore. You exit at Marina Bay and the three-towered Marina Bay Sands is right there, with the infinity pool on the roof and the light show at night. Eighty cents.",
+        "strength": "strong"
+      },
+      {
+        "from": "Orchard Station (NS22)",
+        "to": "HarbourFront Station (CC29) for Sentosa",
+        "line": "North-South Line to Circle Line",
+        "time": "20 min",
+        "fare": "1.60 SGD / ~$1.20 USD",
+        "hookAngle": "Luxury shopping to Universal Studios island for $1.20",
+        "storyPotential": "Orchard Road is Singapore's answer to the Champs-Elysees — two kilometers of malls and designer stores. Twenty minutes on the MRT and you are at HarbourFront where the Sentosa Express takes you across to the island with Universal Studios, the beach clubs, and the aquarium.",
+        "strength": "strong"
+      },
+      {
+        "from": "Little India Station (DT12)",
+        "to": "Botanic Gardens Station (CC19)",
+        "line": "Downtown Line",
+        "time": "10 min",
+        "fare": "1.09 SGD / ~$0.80 USD",
+        "hookAngle": "The most colorful neighborhood to a UNESCO World Heritage garden for 80 cents",
+        "storyPotential": "Little India explodes with color — garland shops, spice stalls, Tamil temples. Ten minutes on the Downtown Line and you enter the Singapore Botanic Gardens, a UNESCO World Heritage Site. The National Orchid Garden has sixty thousand plants. From sensory overload to total serenity for under a dollar.",
+        "strength": "medium"
+      },
+      {
+        "from": "Bayfront Station (CE1)",
+        "to": "Gardens by the Bay (TE22)",
+        "line": "Thomson-East Coast Line",
+        "time": "3 min",
+        "fare": "1.09 SGD / ~$0.80 USD",
+        "hookAngle": "Marina Bay Sands to the Supertree Grove for 80 cents",
+        "storyPotential": "The Supertrees at Gardens by the Bay look like they belong on another planet. Eighteen artificial trees up to fifty meters tall, connected by a skyway, lit up every night. The nearest MRT station is a three-minute ride from Bayfront. The entire complex is free to enter — you only pay for the indoor domes.",
+        "strength": "strong"
+      }
+    ]
+  },
+  {
+    "city": "Dubai",
+    "routes": [
+      {
+        "from": "Airport Terminal 3 Station (R13)",
+        "to": "Burj Khalifa/Dubai Mall Station (R25)",
+        "line": "Red Line",
+        "time": "18 min",
+        "fare": "7.50 AED / ~$2 USD",
+        "hookAngle": "Dubai Airport to the world's tallest building for $2",
+        "storyPotential": "You land in Dubai, follow the signs to the metro, and eighteen minutes later you are standing under the tallest building in the world. Two dollars. The train is driverless, fully air-conditioned, and runs every three minutes. You walk through an air-conditioned bridge straight into the Dubai Mall.",
+        "strength": "strong"
+      },
+      {
+        "from": "Burj Khalifa/Dubai Mall Station (R25)",
+        "to": "Mall of the Emirates Station (R32)",
+        "line": "Red Line",
+        "time": "15 min",
+        "fare": "5 AED / ~$1.35 USD",
+        "hookAngle": "World's tallest building to indoor skiing for $1.35",
+        "storyPotential": "It is forty-five degrees outside and you are going skiing. The Red Line runs from the Burj Khalifa straight to Mall of the Emirates where Ski Dubai has real snow, a chairlift, and penguins. Fifteen minutes on the metro connects the tallest building in the world to an indoor ski slope in the desert.",
+        "strength": "strong"
+      },
+      {
+        "from": "DMCC Station (R37) near Dubai Marina",
+        "to": "Airport Terminal 1 Station (R14)",
+        "line": "Red Line",
+        "time": "51 min",
+        "fare": "7.50 AED / ~$2 USD",
+        "hookAngle": "Dubai Marina to the airport for $2 — end-to-end on the Red Line",
+        "storyPotential": "The Red Line runs the full length of Dubai. From the Marina skyscrapers along Sheikh Zayed Road past every landmark in the city to the airport. Fifty-one minutes, two dollars, entirely above ground with views of the entire skyline. It is a sightseeing tour disguised as public transit.",
+        "strength": "strong"
+      },
+      {
+        "from": "Union Station (R18/G20)",
+        "to": "Gold Souq Station (G22)",
+        "line": "Green Line",
+        "time": "5 min",
+        "fare": "3 AED / ~$0.80 USD",
+        "hookAngle": "Old Dubai's gold market for 80 cents on the metro",
+        "storyPotential": "The Green Line takes you to old Dubai. Five minutes from Union Station and you surface at the Gold Souq where hundreds of shops sell gold by weight. The windows drip with necklaces and bangles. This is where Dubai started before the skyscrapers, and eighty cents gets you there.",
+        "strength": "medium"
+      },
+      {
+        "from": "Sobha Realty Station (R36) near Dubai Marina",
+        "to": "Palm Jumeirah (via Tram + Monorail)",
+        "line": "Red Line + Dubai Tram + Palm Monorail",
+        "time": "20 min",
+        "fare": "9 AED / ~$2.45 USD",
+        "hookAngle": "Dubai Marina to the Palm Jumeirah island for $2.45",
+        "storyPotential": "You take the metro to the tram, the tram to the monorail, and the monorail to the Palm. Three different trains. The monorail runs along the trunk of the palm-shaped island with the Arabian Gulf on both sides. You end at Atlantis where the water park alone is worth the trip.",
+        "strength": "strong"
+      }
+    ]
+  },
+  {
+    "city": "Madrid",
+    "routes": [
+      {
+        "from": "Aeropuerto T4 Station",
+        "to": "Nuevos Ministerios Station (City Center)",
+        "line": "Line 8",
+        "time": "15 min",
+        "fare": "4.50-5 EUR / ~$5 USD (includes airport supplement)",
+        "hookAngle": "Madrid airport to city center in 15 minutes for $5",
+        "storyPotential": "Line 8 runs direct from Terminal 4 to Nuevos Ministerios in fifteen minutes. There is an airport supplement on the fare but it is still five dollars. From Nuevos Ministerios you can connect to three other metro lines or the cercanias train. Fastest airport connection in Spain.",
+        "strength": "strong"
+      },
+      {
+        "from": "Sol Station (Puerta del Sol/Center)",
+        "to": "Estadio Metropolitano (Atletico Madrid)",
+        "line": "Line 7",
+        "time": "20 min",
+        "fare": "1.50 EUR / ~$1.65 USD",
+        "hookAngle": "The center of Spain to a Champions League stadium for $1.65",
+        "storyPotential": "Puerta del Sol is kilometer zero — the exact center of Spain. Twenty minutes on Line 7 and you are at the Metropolitano, one of the biggest football stadiums in Europe. If there is a match day you can feel the atmosphere building as the metro fills with red and white.",
+        "strength": "medium"
+      },
+      {
+        "from": "Gran Via Station (Shopping/Broadway of Madrid)",
+        "to": "Principe Pio Station (Egyptian Temple)",
+        "line": "Line 3",
+        "time": "8 min",
+        "fare": "1.50 EUR / ~$1.65 USD",
+        "hookAngle": "Spain's busiest shopping street to a real Egyptian temple for $1.65",
+        "storyPotential": "Gran Via is Madrid's answer to Broadway — theaters, shops, art deco buildings. Eight minutes on Line 3 and you are at the Temple of Debod. A real Egyptian temple. Spain received it as a gift in 1968 and rebuilt it stone by stone on a hill overlooking the city. The sunset from here is the best in Madrid.",
+        "strength": "strong"
+      },
+      {
+        "from": "Retiro Station (Retiro Park/Prado Museum)",
+        "to": "La Latina Station (Tapas District)",
+        "line": "Line 2",
+        "time": "6 min",
+        "fare": "1.50 EUR / ~$1.65 USD",
+        "hookAngle": "The Prado Museum to the best tapas in Madrid in 6 minutes for $1.65",
+        "storyPotential": "Retiro Park and the Prado are in the same neighborhood — one of the best art museums in the world surrounded by one of the most beautiful parks in Europe. Six minutes on Line 2 and you are in La Latina, where Sunday afternoon means Calle de Cava Baja packed with tapas bars spilling onto the street.",
+        "strength": "strong"
+      },
+      {
+        "from": "Opera Station (Royal Palace)",
+        "to": "Santiago Bernabeu Station (Real Madrid)",
+        "line": "Line 10",
+        "time": "12 min",
+        "fare": "1.50 EUR / ~$1.65 USD",
+        "hookAngle": "The Royal Palace to the Bernabeu for $1.65",
+        "storyPotential": "You start at the Royal Palace — the official residence of the Spanish King. Twelve minutes north on Line 10 and you are at the Santiago Bernabeu, home of Real Madrid and the most decorated football club in history. Kings and football. Two things Madrid does better than anywhere.",
+        "strength": "strong"
+      }
+    ]
+  },
+  {
+    "city": "Barcelona",
+    "routes": [
+      {
+        "from": "Aeroport T1 Station",
+        "to": "Passeig de Gracia Station (Gaudi District)",
+        "line": "L9 Sud (Metro)",
+        "time": "32 min",
+        "fare": "5.50 EUR / ~$6 USD (airport supplement)",
+        "hookAngle": "Barcelona airport to Gaudi's masterpieces for $6",
+        "storyPotential": "L9 is a driverless metro that runs from the airport directly to Passeig de Gracia without changing lines. Thirty-two minutes and you surface between two Gaudi buildings — Casa Batllo and Casa Mila. Six dollars airport to doorstep. The station is one of the deepest in Europe.",
+        "strength": "strong"
+      },
+      {
+        "from": "Sagrada Familia Station",
+        "to": "Barceloneta Station (Beach)",
+        "line": "L4 (Yellow Line)",
+        "time": "12 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "Gaudi's unfinished cathedral to the Mediterranean beach in 12 minutes for $2.80",
+        "storyPotential": "The Sagrada Familia has been under construction since 1882 and still is not finished. Twelve minutes on the yellow line and your feet are in Mediterranean sand. Barcelona is the only major European city where you can see a world wonder and swim in the sea on the same afternoon without a car.",
+        "strength": "strong"
+      },
+      {
+        "from": "Liceu Station (Las Ramblas)",
+        "to": "Paral-lel Station (Montjuic Cable Car)",
+        "line": "L3 (Green Line)",
+        "time": "3 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "Las Ramblas to the hilltop fortress views in 3 minutes by metro + cable car",
+        "storyPotential": "Three minutes on the metro from the bottom of Las Ramblas to Paral-lel. From there you take the funicular up Montjuic hill. The city opens up below you — the port, the cathedral spires, the sea stretching to the horizon. The best panoramic view in Barcelona starts with a three-minute metro ride.",
+        "strength": "strong"
+      },
+      {
+        "from": "Diagonal Station",
+        "to": "Ciutadella/Vila Olimpica Station",
+        "line": "L4 (Yellow Line)",
+        "time": "8 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "Luxury shopping avenue to the Olympic waterfront in 8 minutes",
+        "storyPotential": "Passeig de Gracia and the luxury shopping district sit above Diagonal station. Eight minutes east and you are at the 1992 Olympic port. Frank Gehry's golden fish sculpture catches the light. The restaurants along the marina serve paella with a sea view. Design Barcelona to beach Barcelona in eight minutes.",
+        "strength": "medium"
+      },
+      {
+        "from": "Drassanes Station (Port/Columbus Monument)",
+        "to": "Vall d'Hebron Station (Park Guell area)",
+        "line": "L3 (Green Line)",
+        "time": "20 min",
+        "fare": "2.55 EUR / ~$2.80 USD",
+        "hookAngle": "The harbor to Gaudi's mosaic park for $2.80",
+        "storyPotential": "You start at the Columbus Monument where he pointed to the Americas. Twenty minutes on the green line and you are near Park Guell, where Gaudi turned a hillside into a mosaic wonderland. The famous lizard fountain, the wave bench, the gingerbread houses. A short walk uphill from the station.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "Berlin",
+    "routes": [
+      {
+        "from": "Berlin Hauptbahnhof (Central Station)",
+        "to": "BER Airport",
+        "line": "FEX (Flughafen Express)",
+        "time": "30 min",
+        "fare": "5.00 EUR / ~$5.50 USD (ABC ticket)",
+        "hookAngle": "Berlin city center to the airport in 30 minutes for $5.50",
+        "storyPotential": "The FEX express runs nonstop from the main station to the airport. Thirty minutes, five fifty, no stops. Berlin Brandenburg Airport opened in 2020 after nine years of delays and became a national joke. Now it works perfectly and the express train is one of the best airport connections in Europe.",
+        "strength": "strong"
+      },
+      {
+        "from": "Brandenburger Tor Station (Brandenburg Gate)",
+        "to": "Museumsinsel Station (Museum Island)",
+        "line": "U5",
+        "time": "2 min",
+        "fare": "2.80 EUR / ~$3 USD (short trip ticket)",
+        "hookAngle": "Brandenburg Gate to Museum Island in 2 minutes for $3",
+        "storyPotential": "The U5 line opened its central extension in 2020 and connected the two biggest tourist sites in Berlin with a two-minute ride. Museumsinsel station is architecturally stunning with a blue-lit ceiling that feels like you are underwater. You surface on an island in the Spree River surrounded by five world-class museums.",
+        "strength": "strong"
+      },
+      {
+        "from": "Alexanderplatz Station (TV Tower)",
+        "to": "Kottbusser Tor Station (Kreuzberg)",
+        "line": "U8",
+        "time": "5 min",
+        "fare": "2.80 EUR / ~$3 USD (short trip)",
+        "hookAngle": "The TV Tower to Berlin's coolest neighborhood in 5 minutes for $3",
+        "storyPotential": "Alexanderplatz was the heart of East Berlin. Five minutes on the U8 and you are in Kreuzberg, the neighborhood that defined West Berlin counterculture. Turkish bakeries, street art on every wall, bars that open at midnight and close when the sun comes up. The Berlin Wall used to run between these two stops.",
+        "strength": "strong"
+      },
+      {
+        "from": "Zoologischer Garten Station (West Berlin hub)",
+        "to": "Warschauer Strasse Station (East Side Gallery)",
+        "line": "U1",
+        "time": "18 min",
+        "fare": "4.00 EUR / ~$4.40 USD (AB ticket)",
+        "hookAngle": "West Berlin to the Berlin Wall's East Side Gallery for $4.40",
+        "storyPotential": "The U1 is an elevated line that runs across the Oberbaum Bridge — the most iconic bridge in Berlin that once served as a Cold War checkpoint. You ride above the Spree River and arrive at the East Side Gallery, the longest remaining section of the Berlin Wall covered in murals. Eighteen minutes from West to East.",
+        "strength": "strong"
+      },
+      {
+        "from": "Friedrichstrasse Station",
+        "to": "Potsdamer Platz Station",
+        "line": "S1/S2",
+        "time": "3 min",
+        "fare": "2.80 EUR / ~$3 USD (short trip)",
+        "hookAngle": "Cold War spy crossing to the reunified city center in 3 minutes",
+        "storyPotential": "Friedrichstrasse was the most famous border crossing point of the Cold War. They called it the Palace of Tears because East Germans said goodbye to their Western relatives here. Three minutes to Potsdamer Platz which was once a wasteland between the walls and is now a glass-and-steel center of modern Berlin.",
+        "strength": "strong"
+      },
+      {
+        "from": "Checkpoint Charlie area (Kochstrasse U6)",
+        "to": "Unter den Linden/Brandenburger Tor (U5)",
+        "line": "U6 + U5",
+        "time": "10 min",
+        "fare": "4.00 EUR / ~$4.40 USD",
+        "hookAngle": "Checkpoint Charlie to Brandenburg Gate — two Cold War landmarks for $4.40",
+        "storyPotential": "Both were symbols of division. Checkpoint Charlie was where spies crossed. Brandenburg Gate was where the Wall stood. Ten minutes on the U-Bahn connects them. During the Cold War you could not walk between them. Now a metro ride makes both part of the same afternoon.",
+        "strength": "strong"
+      }
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "routes": [
+      {
+        "from": "Sirkeci Station (Europe Side)",
+        "to": "Uskudar Station (Asia Side)",
+        "line": "Marmaray (Commuter Rail)",
+        "time": "4 min",
+        "fare": "17.67 TRY / ~$0.50 USD",
+        "hookAngle": "Cross from Europe to Asia in 4 minutes for 50 cents",
+        "storyPotential": "The Marmaray tunnel runs under the Bosphorus strait. You board in Europe and four minutes later you step off in Asia. Fifty cents. You just crossed continents on a commuter train. The tunnel sits sixty meters below the water. It is the deepest submerged tunnel in the world.",
+        "strength": "strong"
+      },
+      {
+        "from": "Istanbul Airport (IST)",
+        "to": "Gayrettepe Station (City Center interchange)",
+        "line": "M11 Metro",
+        "time": "35 min",
+        "fare": "17.67 TRY / ~$0.50 USD",
+        "hookAngle": "Istanbul's new airport to the city for 50 cents",
+        "storyPotential": "Istanbul Airport is one of the largest in the world. The M11 metro runs direct to the city center. Thirty-five minutes and fifty cents. Taxis charge forty to fifty dollars for the same trip and take longer in traffic. The metro is clean, fast, and runs every few minutes.",
+        "strength": "strong"
+      },
+      {
+        "from": "Sultanahmet Tram Stop (Blue Mosque/Hagia Sophia)",
+        "to": "Kabatas Tram Stop (Bosphorus Ferry Terminal)",
+        "line": "T1 Tram",
+        "time": "15 min",
+        "fare": "17.67 TRY / ~$0.50 USD",
+        "hookAngle": "Hagia Sophia to a Bosphorus ferry for 50 cents",
+        "storyPotential": "The T1 tram runs from Sultanahmet past every major landmark on the European side. You pass the Grand Bazaar, cross the Galata Bridge with fishermen lining both sides, and arrive at Kabatas where the Bosphorus ferries depart. Fifteen minutes from a 1500-year-old cathedral to the open water.",
+        "strength": "strong"
+      },
+      {
+        "from": "Taksim Station (Taksim Square)",
+        "to": "Yenikapi Station (Old City interchange)",
+        "line": "M2 Metro",
+        "time": "8 min",
+        "fare": "17.67 TRY / ~$0.50 USD",
+        "hookAngle": "Modern Istanbul to the old city in 8 minutes for 50 cents",
+        "storyPotential": "Taksim Square is the modern heart of Istanbul — Istiklal Avenue, rooftop bars, the galleries. Eight minutes underground and you are at Yenikapi where you can connect to the Marmaray to cross to Asia or the tram to reach the historic peninsula. This single ride bridges two completely different cities.",
+        "strength": "strong"
+      },
+      {
+        "from": "Vezneciler Station (Grand Bazaar area)",
+        "to": "Kadikoy Station (Asian Side Market District)",
+        "line": "M2 + Marmaray",
+        "time": "20 min",
+        "fare": "17.67 TRY / ~$0.50 USD",
+        "hookAngle": "Grand Bazaar to Asia's best street market for 50 cents",
+        "storyPotential": "The Grand Bazaar has four thousand shops and has been running since 1461. Twenty minutes and one transfer and you are in Kadikoy on the Asian side where the street market is smaller, cheaper, and full of locals instead of tourists. Same city, different continent, better prices.",
+        "strength": "strong"
+      },
+      {
+        "from": "Kabatas (Funicular base)",
+        "to": "Taksim (Funicular top)",
+        "line": "F1 Funicular",
+        "time": "2 min",
+        "fare": "17.67 TRY / ~$0.50 USD",
+        "hookAngle": "The shortest metro ride in Istanbul — Bosphorus waterfront to Taksim in 2 minutes",
+        "storyPotential": "The F1 funicular climbs straight up the hill from the Bosphorus waterfront to Taksim Square. Two minutes. It connects the ferry terminal at sea level to the heart of the modern city at the top of the hill. The steepest and shortest metro ride in Istanbul and it saves you a brutal uphill walk.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "Osaka",
+    "routes": [
+      {
+        "from": "Kansai Airport (via Nankai Rapi:t)",
+        "to": "Namba Station (City Center)",
+        "line": "Nankai Rapi:t Express",
+        "time": "34 min",
+        "fare": "1450 JPY / ~$9.50 USD",
+        "hookAngle": "Kansai Airport to the heart of Osaka in 34 minutes for under $10",
+        "storyPotential": "The Nankai Rapi:t looks like a spaceship — a retro-futuristic blue train with oval windows. Thirty-four minutes from the airport built on an artificial island in Osaka Bay straight to Namba, the beating heart of the city. You surface and Dotonbori is a five-minute walk away.",
+        "strength": "strong"
+      },
+      {
+        "from": "Namba Station (M20 - Dotonbori)",
+        "to": "Umeda Station (M16 - Business/Shopping)",
+        "line": "Midosuji Line (Red)",
+        "time": "8 min",
+        "fare": "240 JPY / ~$1.55 USD",
+        "hookAngle": "Osaka's street food capital to its shopping capital in 8 minutes for $1.55",
+        "storyPotential": "Namba is where the Glico Running Man sign glows over Dotonbori canal. Eight minutes on the red Midosuji Line and you are in Umeda where the underground shopping arcade stretches for kilometers. These are the two poles of Osaka life — eat in Namba, shop in Umeda.",
+        "strength": "strong"
+      },
+      {
+        "from": "Namba Station (M20)",
+        "to": "Shinsaibashi Station (M19 - Shopping Street)",
+        "line": "Midosuji Line (Red)",
+        "time": "1 min",
+        "fare": "190 JPY / ~$1.25 USD",
+        "hookAngle": "The shortest metro ride in Osaka is one stop to the longest shopping street",
+        "storyPotential": "One stop. One minute. Namba to Shinsaibashi. You exit into a covered shopping arcade that stretches for six hundred meters with shops, restaurants, and everything in between. The most efficient metro ride in Osaka — one minute of train saves twenty minutes of walking through crowds.",
+        "strength": "medium"
+      },
+      {
+        "from": "Tanimachi 4-chome Station (T23)",
+        "to": "Tennoji Station (M23 - Shinsekai)",
+        "line": "Tanimachi Line (Purple)",
+        "time": "7 min",
+        "fare": "240 JPY / ~$1.55 USD",
+        "hookAngle": "Osaka Castle to the retro neon wonderland for $1.55",
+        "storyPotential": "Osaka Castle sits in a park surrounded by moats and cherry trees. Seven minutes south on the purple line and you are in Shinsekai — a neighborhood frozen in the 1960s with neon signs, kushikatsu deep-fried skewer shops, and the Tsutenkaku tower lit up like a slot machine. Old Japan at its most colorful.",
+        "strength": "strong"
+      },
+      {
+        "from": "Hommachi Station (C18)",
+        "to": "Osakako Station (C11 - Aquarium/Bay Area)",
+        "line": "Chuo Line (Green)",
+        "time": "15 min",
+        "fare": "290 JPY / ~$1.90 USD",
+        "hookAngle": "City center to the world's largest aquarium for $1.90",
+        "storyPotential": "The Chuo Line runs east-west straight to the bay. Osakako station is steps from Kaiyukan, one of the largest aquariums in the world. The main tank holds whale sharks. Fifteen minutes from downtown to the ocean. The Tempozan Ferris wheel next door gives you views of the entire Osaka Bay.",
+        "strength": "strong"
+      },
+      {
+        "from": "Shin-Osaka Station (M13)",
+        "to": "Namba Station (M20)",
+        "line": "Midosuji Line (Red)",
+        "time": "16 min",
+        "fare": "290 JPY / ~$1.90 USD",
+        "hookAngle": "Shinkansen station to Dotonbori street food in 16 minutes for $1.90",
+        "storyPotential": "If you arrive in Osaka by bullet train, Shin-Osaka is where you land. Sixteen minutes on the Midosuji Line and you are in Namba. The takoyaki octopus balls, the gyoza shops, the Glico sign. You can be eating some of the best street food in the world within twenty minutes of stepping off the Shinkansen.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "Rome",
+    "routes": [
+      {
+        "from": "Termini Station (Central Hub)",
+        "to": "Colosseo Station (Colosseum)",
+        "line": "Line B (Blue)",
+        "time": "5 min",
+        "fare": "1.50 EUR / ~$1.65 USD",
+        "hookAngle": "Rome's main station to the Colosseum in 5 minutes for $1.65",
+        "storyPotential": "Two stops on Line B. Five minutes. You exit the station and the Colosseum is right there — all four stories of it filling your entire field of vision. No other metro ride in the world puts you face to face with a two-thousand-year-old wonder this fast. A dollar sixty-five.",
+        "strength": "strong"
+      },
+      {
+        "from": "Colosseo Station (Colosseum)",
+        "to": "Ottaviano Station (Vatican/St Peters)",
+        "line": "Line B + Line A (transfer at Termini)",
+        "time": "20 min",
+        "fare": "1.50 EUR / ~$1.65 USD",
+        "hookAngle": "Colosseum to the Vatican for $1.65",
+        "storyPotential": "The two biggest attractions in Rome connected by one metro ticket. You transfer at Termini and ride Line A west. Twenty minutes later you walk out at Ottaviano and St Peter's Basilica is ten minutes on foot. The BIT ticket lasts 100 minutes so you can use it for the whole journey including the transfer.",
+        "strength": "strong"
+      },
+      {
+        "from": "Spagna Station (Spanish Steps)",
+        "to": "Barberini Station (Trevi Fountain)",
+        "line": "Line A (Orange)",
+        "time": "2 min",
+        "fare": "1.50 EUR / ~$1.65 USD",
+        "hookAngle": "Spanish Steps to the Trevi Fountain in 2 minutes for $1.65",
+        "storyPotential": "One stop on Line A. Two minutes underground. You walk up the Spanish Steps, descend into the metro, and surface a five-minute walk from the Trevi Fountain. This is the most efficient way to hit two of Rome's most famous landmarks without wearing out your legs on the cobblestones.",
+        "strength": "strong"
+      },
+      {
+        "from": "Flaminio Station (Piazza del Popolo)",
+        "to": "Cipro Station (Vatican Museums entrance)",
+        "line": "Line A (Orange)",
+        "time": "10 min",
+        "fare": "1.50 EUR / ~$1.65 USD",
+        "hookAngle": "Rome's most beautiful square to the Sistine Chapel entrance for $1.65",
+        "storyPotential": "Piazza del Popolo is where three streets fan out into the heart of Rome. Ten minutes on Line A and you are at Cipro, the station closest to the Vatican Museums entrance. If you have skip-the-line tickets this is your stop. The Sistine Chapel is inside. Michelangelo's ceiling. A dollar sixty-five to get there.",
+        "strength": "strong"
+      },
+      {
+        "from": "Termini Station",
+        "to": "Fiumicino Airport (Leonardo Express)",
+        "line": "Leonardo Express Train",
+        "time": "32 min",
+        "fare": "14 EUR / ~$15.50 USD",
+        "hookAngle": "Rome city center to the airport in 32 minutes for $15.50",
+        "storyPotential": "The Leonardo Express runs nonstop from Termini to Fiumicino every fifteen minutes. Thirty-two minutes, no stops, air-conditioned, wifi. At fifteen dollars it is not cheap but it is half the price of a taxi and twice as fast. The train departs from a dedicated platform at Termini so you cannot miss it.",
+        "strength": "medium"
+      }
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "routes": [
+      {
+        "from": "Aeroporto Station (Airport)",
+        "to": "Baixa-Chiado Station (City Center)",
+        "line": "Red Line + Green Line (transfer at Alameda)",
+        "time": "22 min",
+        "fare": "1.85 EUR / ~$2 USD (with Navegante card)",
+        "hookAngle": "Lisbon airport to the historic center for $2",
+        "storyPotential": "The metro starts right inside the airport terminal. Red Line to Alameda, switch to the Green Line, and twenty-two minutes later you surface in Baixa-Chiado between the two most historic neighborhoods in Lisbon. Two dollars. Taxis charge fifteen. The single fare covers the transfer.",
+        "strength": "strong"
+      },
+      {
+        "from": "Restauradores Station (Avenida da Liberdade)",
+        "to": "Cais do Sodre Station (Waterfront/Time Out Market)",
+        "line": "Green Line",
+        "time": "4 min",
+        "fare": "1.85 EUR / ~$2 USD",
+        "hookAngle": "Lisbon's grand boulevard to the best food hall in Europe for $2",
+        "storyPotential": "Avenida da Liberdade is Lisbon's Champs-Elysees. Four minutes on the green line and you are at Cais do Sodre where the Time Out Market gathers the best chefs in Lisbon under one roof. The waterfront is steps away. The ferry to the other side of the Tagus leaves from here too.",
+        "strength": "strong"
+      },
+      {
+        "from": "Oriente Station (Parque das Nacoes)",
+        "to": "Marques de Pombal Station (City Center)",
+        "line": "Red Line",
+        "time": "12 min",
+        "fare": "1.85 EUR / ~$2 USD",
+        "hookAngle": "Expo district to the city center for $2 — the stations are art galleries",
+        "storyPotential": "Every station on the Lisbon metro is decorated by a different artist. Oriente station was designed by Santiago Calatrava for the 1998 World Expo. The ride itself is a gallery tour. Twelve minutes to Marques de Pombal where the grand roundabout marks the top of Avenida da Liberdade.",
+        "strength": "medium"
+      },
+      {
+        "from": "Sao Sebastiao Station",
+        "to": "Alameda Station",
+        "line": "Red Line / Blue Line",
+        "time": "5 min",
+        "fare": "1.85 EUR / ~$2 USD",
+        "hookAngle": "The metro stations in Lisbon are underground art museums — ride for the tile art alone",
+        "storyPotential": "Lisbon's metro stations are famous for their azulejo tiles — traditional Portuguese ceramic art. Olaias station explodes with color. Parque station has abstract installations. Even the transfer tunnels are covered in art. Two dollars gets you an underground gallery tour that most tourists walk right past.",
+        "strength": "medium"
+      },
+      {
+        "from": "Cais do Sodre Station (Green Line terminus)",
+        "to": "Belem (via Tram 15E)",
+        "line": "Tram 15E (connects from metro)",
+        "time": "20 min",
+        "fare": "1.85 EUR / ~$2 USD (Navegante card)",
+        "hookAngle": "The metro does not reach Belem — but the tram from Cais do Sodre does for $2",
+        "storyPotential": "The metro stops at Cais do Sodre but the famous Belem district with the Jeronimos Monastery, Belem Tower, and the world's best pastel de nata is twenty minutes west by tram. The 15E runs along the Tagus River the whole way. The same Navegante card works on both metro and tram.",
+        "strength": "strong"
+      }
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "routes": [
+      {
+        "from": "Amsterdam Centraal Station",
+        "to": "Amsterdam Zuid Station (Museum Quarter area)",
+        "line": "Metro Line 52 (Noord/Zuidlijn)",
+        "time": "8 min",
+        "fare": "3.20 EUR / ~$3.50 USD",
+        "hookAngle": "Central Station to the museum district in 8 minutes for $3.50",
+        "storyPotential": "Line 52 is Amsterdam's newest metro, opened in 2018 after fifteen years of construction delays and floods. It runs north-south under the canals and connects Central Station to Zuid in eight minutes. From Zuid station the Van Gogh Museum and Rijksmuseum are a ten-minute walk through Vondelpark.",
+        "strength": "strong"
+      },
+      {
+        "from": "Amsterdam Centraal Station",
+        "to": "Amsterdam Noord (NDSM/A'DAM Tower)",
+        "line": "Metro Line 52 + Free Ferry",
+        "time": "5 min (metro) or 5 min (free ferry)",
+        "fare": "3.20 EUR / ~$3.50 USD (or free ferry)",
+        "hookAngle": "Cross the IJ river to Amsterdam's coolest new neighborhood for free",
+        "storyPotential": "Amsterdam Noord was shipyards and warehouses. Now it has the NDSM wharf with street art, the A'DAM Tower with Europe's highest swing on the roof, and some of the best restaurants in the city. The free ferry from Centraal takes five minutes. The metro Line 52 goes further into Noord. The whole area feels like a different city.",
+        "strength": "strong"
+      },
+      {
+        "from": "Schiphol Airport",
+        "to": "Amsterdam Centraal Station",
+        "line": "NS Sprinter/Intercity Train",
+        "time": "15 min",
+        "fare": "5.90 EUR / ~$6.50 USD",
+        "hookAngle": "Schiphol Airport to Amsterdam center in 15 minutes for $6.50",
+        "storyPotential": "Schiphol Airport is built below sea level in a former lake. The train station is underneath the terminal. Fifteen minutes and you are at Amsterdam Centraal. Direct trains run every ten minutes until midnight. Six fifty is all it costs. No bus, no transfer, no confusion.",
+        "strength": "strong"
+      },
+      {
+        "from": "Waterlooplein Station",
+        "to": "Nieuwmarkt Station",
+        "line": "Metro Line 51/53/54",
+        "time": "2 min",
+        "fare": "3.20 EUR / ~$3.50 USD",
+        "hookAngle": "The flea market to the Red Light District border in 2 minutes",
+        "storyPotential": "Waterlooplein is Amsterdam's daily flea market. Two minutes on the metro and Nieuwmarkt puts you at the edge of Chinatown and steps from the Red Light District. This micro-ride covers one of the most eclectic neighborhood transitions in any European city.",
+        "strength": "medium"
+      },
+      {
+        "from": "Amsterdam Zuid Station",
+        "to": "Amsterdam Bijlmer ArenA Station",
+        "line": "Metro Line 50/54",
+        "time": "10 min",
+        "fare": "3.20 EUR / ~$3.50 USD",
+        "hookAngle": "Museum district to the Johan Cruyff Arena in 10 minutes for $3.50",
+        "storyPotential": "If Ajax is playing at home, the metro is how everyone gets there. Ten minutes from Zuid to Bijlmer ArenA. The station is literally built into the stadium. On match days the metro fills with orange and white. Even without football, the area around the arena has some of Amsterdam's best multicultural food.",
+        "strength": "medium"
+      }
+    ]
+  }
+]
